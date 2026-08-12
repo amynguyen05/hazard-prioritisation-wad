@@ -1,0 +1,22 @@
+# data
+data/
+*.mp4
+*.jpg
+*.jpeg
+
+# model weights/checkpoints
+*.pt
+*.pth
+*.safetensors
+checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# OS
+.DS_Store
+EOF
