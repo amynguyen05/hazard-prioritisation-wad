@@ -1,0 +1,8 @@
+,TF-IDF,ROUGE-1,ROUGE-2,ROUGE-L,MiniLM
+"Qwen2-VL-2B, none (ours, no training)",0.073,0.136,0.024,0.103,0.404
+"Qwen2-VL-2B, list (ours, no training)",0.1,0.254,0.093,0.215,0.466
+"Qwen2-VL-2B, ranked (ours, no training)",0.102,0.233,0.078,0.189,0.476
+GPT-4o (no training) [WalkVLM paper],0.116,0.078,0.008,0.072,
+Qwen2-VL-7B (no training) [WalkVLM paper],0.106,0.107,0.01,0.097,
+Qwen2-VL-7B (fine-tuned on WAD) [WalkVLM paper],0.147,0.163,0.054,0.165,
+WalkVLM (fine-tuned on WAD) [WalkVLM paper],0.166,0.191,0.062,0.173,

@@ -1,0 +1,18 @@
+# Local notebooks: subsets, reference labels, human check, evaluation, report figures
+numpy
+pandas
+pyarrow            # reading the .parquet outputs
+matplotlib
+pillow
+scipy              # McNemar's exact test (binomtest)
+scikit-learn       # Cohen's kappa, F1, TF-IDF
+rouge-score
+sentence-transformers
+jupyter
+
+# Kaggle notebooks (module and Qwen) install these themselves on a GPU machine:
+# torch
+# ultralytics          # YOLOE
+# transformers>=4.45   # SegFormer, Depth Anything V2, Qwen2-VL
+# accelerate
+# opencv-python

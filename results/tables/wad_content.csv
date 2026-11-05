@@ -1,0 +1,10 @@
+,share of 1007 reminders
+action: continue,0.74
+action: slow,0.14
+action: move,0.1
+action: stop,0.02
+names no hazard,0.07
+names one hazard,0.57
+names two or more,0.36
+gives a direction,0.86
+gives a distance,0.12

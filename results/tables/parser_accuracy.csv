@@ -1,0 +1,5 @@
+,round 1 (n=100),round 2 (n=50)
+ok_hazard,0.92,0.98
+ok_clock,0.98,0.98
+ok_action,0.91,1.0
+ok_clear,1.0,1.0

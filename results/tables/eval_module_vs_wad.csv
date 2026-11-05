@@ -1,0 +1,1008 @@
+frame_path,wad_hazards,wad_clear,wad_clock,wad_action,our_level,our_clear,our_top,our_clock,our_top3,our_action,top1_hit,top3_hit,clock_ok
+20240914_13ab67a594ecb2636d92ef543c9231e2_14s.frame,{'tree_plant'},False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'fence_railing', 'hole_uneven'}",continue,0.0,0.0,
+20240914_13ab67a594ecb2636d92ef543c9231e2_2m13s.frame,"{'sign', 'pedestrian', 'vehicle'}",False,11.0,continue,stop,False,vehicle,11.0,"{'pedestrian', 'street_object', 'vehicle'}",stop,1.0,1.0,1.0
+20240914_13ab67a594ecb2636d92ef543c9231e2_2m47s.frame,{'pole'},False,12.0,continue,slow,False,pole,12.0,"{'two_wheeler', 'street_object', 'pole'}",slow,1.0,1.0,1.0
+20240914_13ab67a594ecb2636d92ef543c9231e2_3m16s.frame,set(),True,,continue,clear,True,,,"{'pedestrian', 'two_wheeler'}",continue,,,
+20240914_13ab67a594ecb2636d92ef543c9231e2_3m48s.frame,"{'construction', 'barrier_cone'}",False,1.0,continue,slow,False,barrier_cone,12.0,"{'barrier_cone', 'pedestrian'}",slow,1.0,1.0,1.0
+20240914_13ab67a594ecb2636d92ef543c9231e2_3m58s.frame,{'barrier_cone'},False,1.0,continue,move,False,barrier_cone,12.0,"{'barrier_cone', 'vehicle'}",move,1.0,1.0,1.0
+20240914_13ab67a594ecb2636d92ef543c9231e2_4m18s.frame,set(),True,,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,,,
+20240914_13ab67a594ecb2636d92ef543c9231e2_4m22s.frame,set(),True,,continue,slow,False,two_wheeler,12.0,"{'wall_door', 'pedestrian', 'two_wheeler'}",slow,,,
+20240914_1abe4d6f616ccb2d8e15049136e1656d_14s.frame,set(),True,,continue,caution,False,street_object,12.0,"{'pedestrian', 'two_wheeler', 'street_object'}",continue,,,
+20240914_1abe4d6f616ccb2d8e15049136e1656d_1m17s.frame,{'sign'},False,11.0,continue,clear,True,,,"{'two_wheeler', 'sign', 'pole'}",continue,0.0,1.0,
+20240914_1abe4d6f616ccb2d8e15049136e1656d_1m32s.frame,{'tree_plant'},False,11.0,continue,clear,True,,,set(),continue,0.0,0.0,
+20240914_1abe4d6f616ccb2d8e15049136e1656d_1m7s.frame,{'street_object'},False,1.0,continue,caution,False,street_object,1.0,{'street_object'},continue,1.0,1.0,1.0
+20240914_1abe4d6f616ccb2d8e15049136e1656d_2m5s.frame,{'tree_plant'},False,11.0,continue,caution,False,obstacle,11.0,"{'wall_door', 'two_wheeler', 'obstacle'}",continue,0.0,0.0,
+20240914_1abe4d6f616ccb2d8e15049136e1656d_33s.frame,{'pole'},False,1.0,continue,caution,False,pole,12.0,{'pole'},continue,1.0,1.0,1.0
+20240914_1abe4d6f616ccb2d8e15049136e1656d_3m28s.frame,"{'pedestrian', 'vehicle', 'sign'}",False,1.0,continue,caution,False,wall_door,1.0,"{'wall_door', 'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240914_1abe4d6f616ccb2d8e15049136e1656d_4m28s.frame,{'fence_railing'},False,1.0,continue,slow,False,two_wheeler,12.0,"{'wall_door', 'pedestrian', 'two_wheeler'}",slow,0.0,0.0,
+20240914_1abe4d6f616ccb2d8e15049136e1656d_4m4s.frame,{'construction'},False,1.0,continue,caution,False,wall_door,12.0,{'wall_door'},continue,0.0,0.0,
+20240914_283b5d348658a68226783cdeab363a88_10min32s.frame,"{'pedestrian', 'two_wheeler'}",False,12.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'fence_railing', 'two_wheeler'}",continue,0.0,1.0,
+20240914_283b5d348658a68226783cdeab363a88_3min04s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240914_283b5d348658a68226783cdeab363a88_3min14s.frame,"{'pedestrian', 'pole'}",False,10.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240914_283b5d348658a68226783cdeab363a88_4min25s.frame,"{'pedestrian', 'two_wheeler'}",False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'two_wheeler', 'pole'}",continue,0.0,1.0,
+20240914_283b5d348658a68226783cdeab363a88_4min48s.frame,"{'pedestrian', 'two_wheeler'}",False,11.0,slow,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'street_object'}",continue,0.0,1.0,
+20240914_283b5d348658a68226783cdeab363a88_5min40s.frame,"{'pedestrian', 'two_wheeler'}",False,10.0,continue,caution,False,wall_door,1.0,"{'wall_door', 'two_wheeler'}",continue,0.0,1.0,
+20240914_283b5d348658a68226783cdeab363a88_5min53s.frame,set(),True,,continue,slow,False,hole_uneven,12.0,{'hole_uneven'},slow,,,
+20240914_283b5d348658a68226783cdeab363a88_6min09s.frame,"{'pedestrian', 'two_wheeler'}",False,11.0,slow,caution,False,two_wheeler,11.0,"{'pedestrian', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240914_283b5d348658a68226783cdeab363a88_7min04s.frame,"{'pedestrian', 'two_wheeler'}",False,10.0,slow,caution,False,two_wheeler,12.0,"{'wall_door', 'pedestrian', 'two_wheeler'}",continue,1.0,1.0,0.0
+20240914_283b5d348658a68226783cdeab363a88_9min31s.frame,"{'pedestrian', 'two_wheeler'}",False,10.0,slow,caution,False,two_wheeler,12.0,"{'wall_door', 'barrier_cone', 'two_wheeler'}",continue,1.0,1.0,0.0
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_1m20s.frame,{'pole'},False,11.0,continue,caution,False,vehicle,11.0,"{'vehicle', 'pole'}",continue,0.0,1.0,
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_1m28s.frame,{'pole'},False,11.0,continue,caution,False,obstacle,11.0,"{'pedestrian', 'obstacle', 'pole'}",continue,0.0,1.0,
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_1m45s.frame,{'pole'},False,11.0,continue,caution,False,pole,11.0,"{'barrier_cone', 'pole'}",continue,1.0,1.0,1.0
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_25s.frame,"{'tree_plant', 'narrow_crowded', 'vehicle'}",False,11.0,continue,slow,False,vehicle,11.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_2m23s.frame,{'two_wheeler'},False,11.0,continue,slow,False,two_wheeler,12.0,"{'two_wheeler', 'vehicle'}",slow,1.0,1.0,1.0
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_36s.frame,"{'narrow_crowded', 'vehicle', 'pole'}",False,11.0,continue,caution,False,vehicle,11.0,{'vehicle'},continue,1.0,1.0,1.0
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_3m47s.frame,{'two_wheeler'},False,11.0,continue,slow,False,two_wheeler,11.0,"{'two_wheeler', 'vehicle'}",slow,1.0,1.0,1.0
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_4m30s.frame,{'two_wheeler'},False,11.0,continue,slow,False,two_wheeler,11.0,"{'pedestrian', 'two_wheeler'}",slow,1.0,1.0,1.0
+20240914_c2b43e749bd87dd58fbd3fc5a436171d_5s.frame,set(),True,,continue,caution,False,wall_door,11.0,"{'wall_door', 'pedestrian', 'street_object'}",continue,,,
+20240914_d0b2ee8d1672caf3fa21f85df7191106_1m35s.frame,set(),True,,continue,clear,True,,,"{'pedestrian', 'two_wheeler'}",continue,,,
+20240914_d0b2ee8d1672caf3fa21f85df7191106_54s.frame,set(),True,,continue,slow,False,stairs_step,1.0,"{'fence_railing', 'stairs_step', 'vehicle'}",slow,,,
+20240914_d288d35e621454988dd7d35e19dcaf2e_1m19s.frame,{'two_wheeler'},False,11.0,continue,clear,True,,,"{'barrier_cone', 'hole_uneven', 'pole'}",continue,0.0,0.0,
+20240914_d288d35e621454988dd7d35e19dcaf2e_1m33s.frame,{'vehicle'},False,1.0,continue,caution,False,hole_uneven,11.0,"{'two_wheeler', 'hole_uneven'}",continue,0.0,0.0,
+20240914_d288d35e621454988dd7d35e19dcaf2e_1m48s.frame,set(),True,,continue,clear,True,,,set(),continue,,,
+20240914_d288d35e621454988dd7d35e19dcaf2e_2m19s.frame,"{'vehicle', 'sign'}",False,1.0,continue,move,False,vehicle,1.0,"{'hole_uneven', 'vehicle'}",move,1.0,1.0,1.0
+20240914_d288d35e621454988dd7d35e19dcaf2e_36s.frame,{'tree_plant'},False,11.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,0.0,0.0,
+20240914_d288d35e621454988dd7d35e19dcaf2e_45s.frame,{'vehicle'},False,1.0,continue,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240914_d288d35e621454988dd7d35e19dcaf2e_4m12s.frame,{'tree_plant'},False,11.0,continue,stop,False,vehicle,1.0,"{'obstacle', 'vehicle'}",stop,0.0,0.0,
+20240914_d288d35e621454988dd7d35e19dcaf2e_4m2s.frame,{'street_object'},False,1.0,continue,caution,False,water,1.0,"{'water', 'vehicle'}",continue,0.0,0.0,
+20240914_d288d35e621454988dd7d35e19dcaf2e_5m55s.frame,set(),True,,continue,clear,True,,,{'vehicle'},continue,,,
+20240914_d288d35e621454988dd7d35e19dcaf2e_6m24s.frame,{'vehicle'},False,11.0,continue,caution,False,two_wheeler,12.0,"{'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240914_d288d35e621454988dd7d35e19dcaf2e_6m47s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'hole_uneven'}",slow,1.0,1.0,1.0
+20240914_d288d35e621454988dd7d35e19dcaf2e_7m40s.frame,{'furniture_stall'},False,11.0,continue,clear,True,,,"{'tree_plant', 'pedestrian'}",continue,0.0,0.0,
+20240914_d7cd76469d6d513c2aaf8e23af559661_16s.frame,"{'sign', 'pole'}",False,1.0,continue,caution,False,hole_uneven,1.0,"{'two_wheeler', 'hole_uneven', 'pole'}",continue,0.0,1.0,
+20240914_d7cd76469d6d513c2aaf8e23af559661_3min19s.frame,"{'street_object', 'narrow_crowded'}",False,1.0,slow,caution,False,street_object,1.0,{'street_object'},continue,1.0,1.0,1.0
+20240914_d7cd76469d6d513c2aaf8e23af559661_44s.frame,{'tree_plant'},False,1.0,continue,caution,False,obstacle,1.0,"{'furniture_stall', 'two_wheeler', 'obstacle'}",continue,0.0,0.0,
+20240914_d7cd76469d6d513c2aaf8e23af559661_4min10s.frame,{'vehicle'},False,12.0,continue,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240914_d7cd76469d6d513c2aaf8e23af559661_5min48s.frame,{'pedestrian'},False,11.0,continue,slow,False,vehicle,1.0,"{'pedestrian', 'vehicle'}",slow,0.0,1.0,
+20240914_d7cd76469d6d513c2aaf8e23af559661_5min54s.frame,set(),True,,continue,clear,True,,,"{'furniture_stall', 'pedestrian', 'street_object'}",continue,,,
+20240918-youtube_short_00a696f1175f121794fb27c61c9db21c_1min59s.frame,{'furniture_stall'},False,12.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_00a696f1175f121794fb27c61c9db21c_2min15s.frame,"{'fence_railing', 'pedestrian'}",False,1.0,slow,slow,False,pedestrian,12.0,"{'fence_railing', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_00a696f1175f121794fb27c61c9db21c_2min3s.frame,"{'furniture_stall', 'pedestrian'}",False,3.0,continue,move,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",move,1.0,1.0,0.0
+20240918-youtube_short_00a696f1175f121794fb27c61c9db21c_2min7s.frame,{'pedestrian'},False,10.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_00a696f1175f121794fb27c61c9db21c_35s.frame,{'junction'},False,12.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'sign'}",continue,0.0,0.0,
+20240918-youtube_short_00a696f1175f121794fb27c61c9db21c_3min17s.frame,{'water'},False,12.0,continue,caution,False,water,1.0,"{'pedestrian', 'water'}",continue,1.0,1.0,1.0
+20240918-youtube_short_00a696f1175f121794fb27c61c9db21c_3min7s.frame,{'pedestrian'},False,10.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",slow,1.0,1.0,0.0
+20240918-youtube_short_00a696f1175f121794fb27c61c9db21c_4min14s.frame,"{'pedestrian', 'narrow_crowded'}",False,12.0,slow,caution,False,obstacle,12.0,"{'furniture_stall', 'pedestrian', 'obstacle'}",continue,0.0,1.0,
+20240918-youtube_short_01bff7b53de03cb908d1513d5947a5c1_1min04s.frame,"{'pedestrian', 'vehicle'}",False,1.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_01bff7b53de03cb908d1513d5947a5c1_23s.frame,{'junction'},False,,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_01bff7b53de03cb908d1513d5947a5c1_2min31s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_01bff7b53de03cb908d1513d5947a5c1_3min16s.frame,{'pedestrian'},False,12.0,slow,move,False,water,1.0,"{'furniture_stall', 'water', 'pedestrian'}",move,0.0,1.0,
+20240918-youtube_short_01bff7b53de03cb908d1513d5947a5c1_3min52s.frame,{'pedestrian'},False,,move,slow,False,pedestrian,1.0,"{'tree_plant', 'pedestrian', 'obstacle'}",slow,1.0,1.0,
+20240918-youtube_short_01bff7b53de03cb908d1513d5947a5c1_4s.frame,"{'pedestrian', 'junction'}",False,,slow,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,
+20240918-youtube_short_07112944eaa8c1e694fd37a138bce8f0_1m32s.frame,"{'barrier_cone', 'off_route'}",False,1.0,move,slow,False,vehicle,1.0,"{'furniture_stall', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_07112944eaa8c1e694fd37a138bce8f0_3m38s.frame,{'vehicle'},False,12.0,stop,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_07112944eaa8c1e694fd37a138bce8f0_4m20s.frame,"{'two_wheeler', 'junction'}",False,12.0,slow,clear,True,,,{'two_wheeler'},continue,0.0,1.0,
+20240918-youtube_short_07112944eaa8c1e694fd37a138bce8f0_4m48s.frame,"{'off_route', 'pole'}",False,12.0,move,caution,False,obstacle,1.0,"{'tree_plant', 'obstacle'}",continue,0.0,0.0,
+20240918-youtube_short_081e0a96bac802b988a1db9df310ddd1_17s.frame,"{'pedestrian', 'vehicle'}",False,11.0,slow,caution,False,vehicle,11.0,"{'pedestrian', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_081e0a96bac802b988a1db9df310ddd1_1min03s.frame,{'vehicle'},False,12.0,move,clear,True,,,"{'pedestrian', 'two_wheeler', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_081e0a96bac802b988a1db9df310ddd1_1min14s.frame,{'pole'},False,12.0,slow,caution,False,street_object,11.0,"{'wall_door', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_081e0a96bac802b988a1db9df310ddd1_1min29s.frame,"{'fence_railing', 'off_route'}",False,12.0,continue,caution,False,stairs_step,12.0,"{'wall_door', 'stairs_step', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_081e0a96bac802b988a1db9df310ddd1_27s.frame,"{'pedestrian', 'two_wheeler'}",False,11.0,continue,clear,True,,,"{'tree_plant', 'pedestrian', 'two_wheeler'}",continue,0.0,1.0,
+20240918-youtube_short_081e0a96bac802b988a1db9df310ddd1_2min04s.frame,{'wall_door'},False,,move,caution,False,wall_door,12.0,"{'wall_door', 'street_object'}",continue,1.0,1.0,
+20240918-youtube_short_081e0a96bac802b988a1db9df310ddd1_3min07s.frame,{'pole'},False,1.0,slow,caution,False,street_object,12.0,"{'fence_railing', 'two_wheeler', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_0830abed85f2fa636452919d74cc2b14_2m13s.frame,{'furniture_stall'},False,10.0,continue,clear,True,,,"{'furniture_stall', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_0830abed85f2fa636452919d74cc2b14_2m21s.frame,{'pedestrian'},False,1.0,continue,clear,True,,,{'pedestrian'},continue,0.0,1.0,
+20240918-youtube_short_0830abed85f2fa636452919d74cc2b14_3m14s.frame,{'pedestrian'},False,1.0,continue,clear,True,,,{'pedestrian'},continue,0.0,1.0,
+20240918-youtube_short_0830abed85f2fa636452919d74cc2b14_4m25s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_0830abed85f2fa636452919d74cc2b14_4m52s.frame,set(),True,,continue,clear,True,,,{'pedestrian'},continue,,,
+20240918-youtube_short_0b21c62c47a2924bb12258133348d9b7_1m23s.frame,{'street_object'},False,1.0,continue,slow,False,water,12.0,"{'water', 'street_object'}",slow,0.0,1.0,
+20240918-youtube_short_0b21c62c47a2924bb12258133348d9b7_2m24s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_0b21c62c47a2924bb12258133348d9b7_3m16s.frame,"{'pedestrian', 'pole'}",False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_0b21c62c47a2924bb12258133348d9b7_3m45s.frame,"{'wall_door', 'pedestrian'}",False,11.0,continue,slow,False,pedestrian,11.0,"{'wall_door', 'pedestrian', 'street_object'}",slow,1.0,1.0,1.0
+20240918-youtube_short_0b21c62c47a2924bb12258133348d9b7_4m32s.frame,"{'tree_plant', 'pedestrian', 'street_object'}",False,1.0,continue,caution,False,pedestrian,11.0,"{'tree_plant', 'pedestrian', 'street_object'}",continue,1.0,1.0,0.0
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_1min38s.frame,"{'barrier_cone', 'vehicle'}",False,11.0,slow,caution,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_2min02s.frame,"{'barrier_cone', 'pedestrian', 'narrow_crowded'}",False,1.0,slow,move,False,hole_uneven,12.0,"{'pedestrian', 'hole_uneven'}",move,0.0,1.0,
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_2min57s.frame,"{'barrier_cone', 'pedestrian'}",False,,slow,caution,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_3min08s.frame,"{'sign', 'vehicle'}",False,1.0,continue,slow,False,vehicle,12.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_3min15s.frame,"{'barrier_cone', 'narrow_crowded'}",False,11.0,slow,caution,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_3min39s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",continue,1.0,1.0,1.0
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_45s.frame,{'pedestrian'},False,12.0,slow,caution,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_4min07s.frame,"{'tree_plant', 'street_object'}",False,1.0,continue,caution,False,pedestrian,1.0,"{'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_4min23s.frame,"{'street_object', 'narrow_crowded'}",False,12.0,continue,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_4min37s.frame,{'barrier_cone'},False,1.0,continue,clear,True,,,{'sign'},continue,0.0,0.0,
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_4min51s.frame,{'vehicle'},False,11.0,continue,clear,True,,,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_0c0c8bd9f0ae9bb241a819372ce3916f_4min54s.frame,{'barrier_cone'},False,1.0,continue,clear,True,,,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_0cca60114007ca199683c29931877844_1m11s.frame,"{'pedestrian', 'vehicle'}",False,1.0,continue,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_0cca60114007ca199683c29931877844_2m23s.frame,set(),True,,continue,caution,False,obstacle,1.0,"{'fence_railing', 'pedestrian', 'obstacle'}",continue,,,
+20240918-youtube_short_0cca60114007ca199683c29931877844_2m50s.frame,{'wall_door'},False,12.0,continue,clear,True,,,{'sign'},continue,0.0,0.0,
+20240918-youtube_short_0cca60114007ca199683c29931877844_3m6s.frame,"{'pedestrian', 'pole'}",False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_0cca60114007ca199683c29931877844_4m45s.frame,"{'pedestrian', 'pole'}",False,11.0,continue,slow,False,fence_railing,12.0,"{'wall_door', 'fence_railing'}",slow,0.0,0.0,
+20240918-youtube_short_0cca60114007ca199683c29931877844_4m51s.frame,{'wall_door'},False,12.0,continue,stop,False,wall_door,11.0,{'wall_door'},stop,1.0,1.0,1.0
+20240918-youtube_short_0d1a5f91e3820fd76cf9e3ab42c4fd68_2m13s.frame,{'two_wheeler'},False,11.0,continue,caution,False,two_wheeler,12.0,{'two_wheeler'},continue,1.0,1.0,1.0
+20240918-youtube_short_0eb568647cbc6c2a3af202f45ab720bc_1m27s.frame,{'street_object'},False,2.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_0eb568647cbc6c2a3af202f45ab720bc_2m44s.frame,"{'wall_door', 'pedestrian', 'narrow_crowded'}",False,2.0,continue,move,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",move,1.0,1.0,0.0
+20240918-youtube_short_0eb568647cbc6c2a3af202f45ab720bc_2m6s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_0eb568647cbc6c2a3af202f45ab720bc_38s.frame,{'wall_door'},False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",slow,0.0,0.0,
+20240918-youtube_short_0eb568647cbc6c2a3af202f45ab720bc_3m19s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_0eb568647cbc6c2a3af202f45ab720bc_4m33s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'water'}",continue,1.0,1.0,1.0
+20240918-youtube_short_0ec427598f2de531948e8a2d6a05c092_24s.frame,{'hole_uneven'},False,12.0,slow,caution,False,vehicle,1.0,"{'barrier_cone', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_0ec427598f2de531948e8a2d6a05c092_2min12s.frame,{'pedestrian'},False,1.0,slow,caution,False,vehicle,11.0,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_0ec427598f2de531948e8a2d6a05c092_2min55s.frame,"{'pedestrian', 'two_wheeler'}",False,11.0,slow,caution,False,pedestrian,1.0,{'pedestrian'},continue,1.0,1.0,0.0
+20240918-youtube_short_0ec427598f2de531948e8a2d6a05c092_59s.frame,{'vehicle'},False,12.0,move,stop,False,vehicle,11.0,"{'vehicle', 'pole'}",stop,1.0,1.0,1.0
+20240918-youtube_short_0f7423c67e5e7db619994a35518e30b2_26s.frame,{'vehicle'},False,10.0,move,caution,False,vehicle,12.0,"{'two_wheeler', 'vehicle'}",continue,1.0,1.0,0.0
+20240918-youtube_short_0f7423c67e5e7db619994a35518e30b2_2min05s.frame,"{'street_object', 'off_route'}",False,12.0,continue,slow,False,two_wheeler,12.0,"{'two_wheeler', 'obstacle', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_0f7423c67e5e7db619994a35518e30b2_2min42s.frame,"{'off_route', 'vehicle'}",False,1.0,move,clear,True,,,"{'barrier_cone', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_0f7423c67e5e7db619994a35518e30b2_36s.frame,"{'tree_plant', 'pedestrian'}",False,11.0,continue,caution,False,stairs_step,12.0,"{'stairs_step', 'pedestrian', 'two_wheeler'}",continue,0.0,1.0,
+20240918-youtube_short_0f7423c67e5e7db619994a35518e30b2_3min08s.frame,"{'stairs_step', 'pole'}",False,2.0,continue,caution,False,stairs_step,1.0,"{'stairs_step', 'two_wheeler', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_0f7423c67e5e7db619994a35518e30b2_3min51s.frame,"{'fence_railing', 'pedestrian', 'vehicle'}",False,12.0,move,caution,False,vehicle,12.0,"{'wall_door', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_0f7423c67e5e7db619994a35518e30b2_4min50s.frame,{'vehicle'},False,9.0,continue,caution,False,vehicle,12.0,{'vehicle'},continue,1.0,1.0,0.0
+20240918-youtube_short_11349c34910cbeadccfbba4ea5e33790_1m23.frame,"{'vehicle', 'sign'}",False,1.0,stop,clear,True,,,{'tree_plant'},continue,0.0,0.0,
+20240918-youtube_short_11349c34910cbeadccfbba4ea5e33790_3m15s.frame,"{'furniture_stall', 'street_object'}",False,11.0,move,slow,False,obstacle,12.0,"{'obstacle', 'street_object'}",slow,0.0,1.0,
+20240918-youtube_short_11349c34910cbeadccfbba4ea5e33790_3m39s.frame,{'wall_door'},False,11.0,move,move,False,wall_door,12.0,{'wall_door'},move,1.0,1.0,1.0
+20240918-youtube_short_118cbb701addcc38ebb35edbe1fa3c98_13s.frame,{'junction'},False,12.0,continue,clear,True,,,"{'tree_plant', 'street_object', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_118cbb701addcc38ebb35edbe1fa3c98_1min24s.frame,set(),True,,continue,clear,True,,,"{'tree_plant', 'two_wheeler'}",continue,,,
+20240918-youtube_short_118cbb701addcc38ebb35edbe1fa3c98_1min5s.frame,{'pole'},False,1.0,continue,caution,False,furniture_stall,12.0,"{'tree_plant', 'furniture_stall', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_118cbb701addcc38ebb35edbe1fa3c98_2min30s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_118cbb701addcc38ebb35edbe1fa3c98_3min20s.frame,{'pedestrian'},False,12.0,continue,slow,False,vehicle,11.0,"{'pedestrian', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_11bc0f3b2d7f68e62f5d61a10d2f8897_2min52s.frame,set(),True,,slow,clear,True,,,"{'tree_plant', 'animal'}",continue,,,
+20240918-youtube_short_11bc0f3b2d7f68e62f5d61a10d2f8897_3min02s.frame,{'barrier_cone'},False,11.0,continue,slow,False,pedestrian,11.0,"{'wall_door', 'pedestrian'}",slow,0.0,0.0,
+20240918-youtube_short_11bc0f3b2d7f68e62f5d61a10d2f8897_3min49s.frame,{'narrow_crowded'},False,,slow,move,False,wall_door,12.0,"{'wall_door', 'pole'}",move,0.0,0.0,
+20240918-youtube_short_11bc0f3b2d7f68e62f5d61a10d2f8897_4min03s.frame,"{'wall_door', 'off_route'}",False,12.0,continue,stop,False,wall_door,12.0,{'wall_door'},stop,1.0,1.0,1.0
+20240918-youtube_short_11bc0f3b2d7f68e62f5d61a10d2f8897_4min21s.frame,{'barrier_cone'},False,12.0,continue,slow,False,wall_door,12.0,{'wall_door'},slow,0.0,0.0,
+20240918-youtube_short_11bc0f3b2d7f68e62f5d61a10d2f8897_4min59s.frame,"{'wall_door', 'off_route'}",False,12.0,continue,slow,False,wall_door,12.0,{'wall_door'},slow,1.0,1.0,1.0
+20240918-youtube_short_11bc0f3b2d7f68e62f5d61a10d2f8897_59s.frame,"{'fence_railing', 'off_route'}",False,12.0,continue,slow,False,water,12.0,"{'fence_railing', 'water'}",slow,0.0,1.0,
+20240918-youtube_short_15e56802a820022e591425a4e5c7e3c5_12s.frame,"{'tree_plant', 'pedestrian', 'vehicle'}",False,12.0,move,caution,False,vehicle,12.0,"{'vehicle', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_15e56802a820022e591425a4e5c7e3c5_3min32s.frame,"{'pedestrian', 'narrow_crowded'}",False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'furniture_stall'}",slow,0.0,1.0,
+20240918-youtube_short_15e56802a820022e591425a4e5c7e3c5_57s.frame,{'pole'},False,11.0,slow,slow,False,wall_door,12.0,"{'wall_door', 'tree_plant'}",slow,0.0,0.0,
+20240918-youtube_short_16cfb483004bd327b372ad1ad8f5f895_2min15s.frame,{'vehicle'},False,1.0,continue,caution,False,two_wheeler,12.0,"{'furniture_stall', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_16cfb483004bd327b372ad1ad8f5f895_3min09s.frame,"{'pedestrian', 'vehicle'}",False,1.0,slow,caution,False,wall_door,11.0,"{'wall_door', 'fence_railing', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_16cfb483004bd327b372ad1ad8f5f895_4min11s.frame,{'wall_door'},False,12.0,continue,stop,False,fence_railing,12.0,"{'wall_door', 'fence_railing', 'pole'}",stop,0.0,1.0,
+20240918-youtube_short_1816738a15aae350c46da34a5b1b4a16_2m19s.frame,{'junction'},False,12.0,continue,clear,True,,,"{'furniture_stall', 'two_wheeler', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_1816738a15aae350c46da34a5b1b4a16_3m49s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'sign'}",slow,1.0,1.0,1.0
+20240918-youtube_short_1816738a15aae350c46da34a5b1b4a16_46s.frame,"{'wall_door', 'narrow_crowded', 'pole'}",False,12.0,continue,move,False,wall_door,12.0,"{'wall_door', 'vehicle', 'pole'}",move,1.0,1.0,1.0
+20240918-youtube_short_1816738a15aae350c46da34a5b1b4a16_4m10s.frame,set(),True,,continue,caution,False,barrier_cone,12.0,"{'wall_door', 'barrier_cone', 'pedestrian'}",continue,,,
+20240918-youtube_short_1816738a15aae350c46da34a5b1b4a16_52s.frame,{'pedestrian'},False,12.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_1m25s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,11.0,"{'pedestrian', 'furniture_stall'}",slow,1.0,1.0,1.0
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_1m5s.frame,{'other_object'},False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_2m29s.frame,{'street_object'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,0.0,
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_2m40s.frame,{'pole'},False,2.0,continue,slow,False,furniture_stall,12.0,"{'furniture_stall', 'pedestrian'}",slow,0.0,0.0,
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_2m55s.frame,"{'pedestrian', 'pole'}",False,2.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,0.0
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_3m15s.frame,"{'pedestrian', 'sign'}",False,2.0,continue,caution,False,pedestrian,1.0,"{'pedestrian', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_3m36s.frame,{'furniture_stall'},False,1.0,continue,caution,False,wall_door,1.0,"{'wall_door', 'pedestrian', 'sign'}",continue,0.0,0.0,
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_4m18s.frame,{'vehicle'},False,11.0,continue,slow,False,two_wheeler,12.0,{'two_wheeler'},slow,0.0,0.0,
+20240918-youtube_short_18220bb7f7796db96d3872a59793ca7f_4m31s.frame,"{'two_wheeler', 'narrow_crowded', 'pole'}",False,11.0,continue,caution,False,pole,12.0,"{'two_wheeler', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_1908d9f598aa3c07ee86ee7510fac084_1m13s.frame,"{'tree_plant', 'narrow_crowded', 'vehicle'}",False,11.0,continue,slow,False,vehicle,1.0,"{'furniture_stall', 'vehicle'}",slow,1.0,1.0,0.0
+20240918-youtube_short_1908d9f598aa3c07ee86ee7510fac084_1m49s.frame,"{'junction', 'pole'}",False,12.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_1908d9f598aa3c07ee86ee7510fac084_1m53s.frame,{'fence_railing'},False,2.0,continue,clear,True,,,"{'vehicle', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_1908d9f598aa3c07ee86ee7510fac084_27s.frame,{'two_wheeler'},False,2.0,continue,slow,False,vehicle,11.0,{'vehicle'},slow,0.0,0.0,
+20240918-youtube_short_1908d9f598aa3c07ee86ee7510fac084_57s.frame,{'pedestrian'},False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_1a04fabe6c22b1df7d45e3a3d7b11406_1min51s.frame,{'tree_plant'},False,10.0,continue,clear,True,,,{'vehicle'},continue,0.0,0.0,
+20240918-youtube_short_1a04fabe6c22b1df7d45e3a3d7b11406_2min16s.frame,{'pole'},False,12.0,continue,caution,False,vehicle,12.0,"{'vehicle', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_1a04fabe6c22b1df7d45e3a3d7b11406_2min32s.frame,{'vehicle'},False,2.0,continue,clear,True,,,{'vehicle'},continue,0.0,1.0,
+20240918-youtube_short_1a04fabe6c22b1df7d45e3a3d7b11406_35s.frame,"{'wall_door', 'tree_plant'}",False,11.0,continue,caution,False,vehicle,12.0,"{'obstacle', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_1a04fabe6c22b1df7d45e3a3d7b11406_3min44s.frame,{'two_wheeler'},False,11.0,continue,slow,False,two_wheeler,11.0,"{'pedestrian', 'two_wheeler'}",slow,1.0,1.0,1.0
+20240918-youtube_short_1a04fabe6c22b1df7d45e3a3d7b11406_4min45s.frame,{'tree_plant'},False,12.0,continue,move,False,tree_plant,1.0,"{'wall_door', 'tree_plant'}",move,1.0,1.0,1.0
+20240918-youtube_short_1aec7c3e80c13cbb75f75f72333148bf_2min20s.frame,{'wall_door'},False,12.0,continue,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_1aec7c3e80c13cbb75f75f72333148bf_2min24s.frame,{'wall_door'},False,12.0,continue,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_1aec7c3e80c13cbb75f75f72333148bf_3min12s.frame,{'pedestrian'},False,10.0,continue,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_1aec7c3e80c13cbb75f75f72333148bf_3min53s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_1aec7c3e80c13cbb75f75f72333148bf_4min44s.frame,{'other_object'},False,2.0,continue,caution,False,vehicle,11.0,"{'sign', 'pedestrian', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_1aec7c3e80c13cbb75f75f72333148bf_50s.frame,{'wall_door'},False,12.0,continue,caution,False,furniture_stall,12.0,"{'furniture_stall', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_1be174ef2993a150d34ce8396023f167_38s.frame,set(),True,,continue,clear,True,,,set(),continue,,,
+20240918-youtube_short_1be174ef2993a150d34ce8396023f167_3m45s.frame,set(),True,,continue,clear,True,,,{'pedestrian'},continue,,,
+20240918-youtube_short_1be174ef2993a150d34ce8396023f167_4m7s.frame,{'pedestrian'},False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_1be174ef2993a150d34ce8396023f167_51s.frame,{'pole'},False,11.0,continue,caution,False,pole,11.0,"{'vehicle', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_1be174ef2993a150d34ce8396023f167_7s.frame,set(),True,,continue,clear,True,,,{'pedestrian'},continue,,,
+20240918-youtube_short_1c7bf8a7db9a340a9d186a4fbae1a1ee_1m24s.frame,{'other_object'},False,11.0,continue,slow,False,water,12.0,{'water'},slow,0.0,0.0,
+20240918-youtube_short_1c7bf8a7db9a340a9d186a4fbae1a1ee_2m20s.frame,"{'two_wheeler', 'street_object'}",False,1.0,continue,move,False,hole_uneven,12.0,"{'two_wheeler', 'hole_uneven', 'vehicle'}",move,0.0,1.0,
+20240918-youtube_short_1c7bf8a7db9a340a9d186a4fbae1a1ee_3m7s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_1c7bf8a7db9a340a9d186a4fbae1a1ee_4m23s.frame,{'pedestrian'},False,1.0,continue,caution,False,pedestrian,1.0,"{'pedestrian', 'furniture_stall'}",continue,1.0,1.0,1.0
+20240918-youtube_short_1c7bf8a7db9a340a9d186a4fbae1a1ee_4m47s.frame,{'sign'},False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_1c7bf8a7db9a340a9d186a4fbae1a1ee_5s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_1caa54e1873444cb91a0dca076f5c6b4_10s.frame,set(),True,,continue,slow,False,wall_door,11.0,{'wall_door'},slow,,,
+20240918-youtube_short_1caa54e1873444cb91a0dca076f5c6b4_1m24s.frame,{'pedestrian'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_1caa54e1873444cb91a0dca076f5c6b4_1m50s.frame,"{'stairs_step', 'narrow_crowded'}",False,12.0,slow,slow,False,stairs_step,12.0,{'stairs_step'},slow,1.0,1.0,1.0
+20240918-youtube_short_1caa54e1873444cb91a0dca076f5c6b4_3m30s.frame,"{'other_object', 'pedestrian'}",False,1.0,continue,clear,True,,,"{'furniture_stall', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_1caa54e1873444cb91a0dca076f5c6b4_3m45s.frame,{'sign'},False,1.0,continue,slow,False,sign,12.0,"{'sign', 'pole'}",slow,1.0,1.0,1.0
+20240918-youtube_short_1cb8f8832a143fde640ff92d7c656280_2m46s.frame,{'tree_plant'},False,12.0,continue,caution,False,pedestrian,12.0,"{'tree_plant', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_1cb8f8832a143fde640ff92d7c656280_3m20s.frame,{'pole'},False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'fence_railing', 'furniture_stall'}",slow,0.0,0.0,
+20240918-youtube_short_1cb8f8832a143fde640ff92d7c656280_3m6s.frame,"{'fence_railing', 'pedestrian'}",False,12.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'stairs_step', 'street_object'}",slow,1.0,1.0,1.0
+20240918-youtube_short_1cb8f8832a143fde640ff92d7c656280_4m28s.frame,"{'tree_plant', 'furniture_stall', 'sign'}",False,1.0,continue,slow,False,vehicle,1.0,"{'wall_door', 'stairs_step', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_1cb8f8832a143fde640ff92d7c656280_4m36s.frame,"{'tree_plant', 'stairs_step'}",False,1.0,continue,slow,False,fence_railing,12.0,"{'wall_door', 'fence_railing', 'tree_plant'}",slow,0.0,1.0,
+20240918-youtube_short_1cb8f8832a143fde640ff92d7c656280_4m49s.frame,{'furniture_stall'},False,12.0,continue,slow,False,stairs_step,12.0,"{'stairs_step', 'pedestrian'}",slow,0.0,0.0,
+20240918-youtube_short_21957577e0201b878de1c1a4a1f20f7a_1min38s.frame,{'off_route'},False,,move,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_21957577e0201b878de1c1a4a1f20f7a_1min48s.frame,"{'curb_edge', 'pedestrian'}",False,12.0,slow,slow,False,fence_railing,12.0,"{'fence_railing', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_21957577e0201b878de1c1a4a1f20f7a_1min58s.frame,{'off_route'},False,,move,slow,False,water,12.0,"{'wall_door', 'water'}",slow,0.0,0.0,
+20240918-youtube_short_21957577e0201b878de1c1a4a1f20f7a_24s.frame,set(),False,,continue,clear,True,,,{'pedestrian'},continue,,,
+20240918-youtube_short_21957577e0201b878de1c1a4a1f20f7a_4min37s.frame,{'pedestrian'},False,12.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_21957577e0201b878de1c1a4a1f20f7a_52s.frame,{'pedestrian'},False,1.0,continue,caution,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_1m55s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",slow,1.0,1.0,1.0
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_20s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,12.0,"{'fence_railing', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_2m46s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'wall_door', 'pedestrian', 'furniture_stall'}",slow,1.0,1.0,1.0
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_3m19s.frame,{'furniture_stall'},False,11.0,continue,slow,False,furniture_stall,12.0,{'furniture_stall'},slow,1.0,1.0,1.0
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_3m22s.frame,"{'furniture_stall', 'pedestrian'}",False,11.0,continue,slow,False,furniture_stall,12.0,"{'furniture_stall', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_3m48s.frame,set(),True,,continue,clear,True,,,"{'pedestrian', 'furniture_stall'}",continue,,,
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_3m6s.frame,{'pedestrian'},False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_4m1s.frame,set(),True,,continue,clear,True,,,"{'tree_plant', 'sign'}",continue,,,
+20240918-youtube_short_2415fb1c7999090c4f70c2606d7ecf83_53s.frame,{'pole'},False,11.0,continue,slow,False,water,12.0,{'water'},slow,0.0,0.0,
+20240918-youtube_short_24f6e0713222899722c003e5f3929136_2m36s.frame,{'vehicle'},False,12.0,stop,slow,False,vehicle,12.0,{'vehicle'},slow,1.0,1.0,1.0
+20240918-youtube_short_24f6e0713222899722c003e5f3929136_2m56s.frame,{'pole'},False,1.0,continue,slow,False,pedestrian,11.0,"{'wall_door', 'pedestrian', 'furniture_stall'}",slow,0.0,0.0,
+20240918-youtube_short_24f6e0713222899722c003e5f3929136_4m36s.frame,"{'furniture_stall', 'vehicle'}",False,1.0,continue,caution,False,furniture_stall,12.0,"{'furniture_stall', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_24f6e0713222899722c003e5f3929136_4m50s.frame,set(),True,,continue,clear,True,,,{'vehicle'},continue,,,
+20240918-youtube_short_24f6e0713222899722c003e5f3929136_55s.frame,"{'sign', 'junction'}",False,,continue,caution,False,wall_door,11.0,"{'wall_door', 'two_wheeler', 'sign'}",continue,0.0,1.0,
+20240918-youtube_short_2597ec258f3a975d9005a1184cee44d4_1min06s.frame,"{'tree_plant', 'vehicle'}",False,10.0,move,slow,False,vehicle,11.0,"{'obstacle', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_2597ec258f3a975d9005a1184cee44d4_1min16s.frame,{'tree_plant'},False,11.0,move,slow,False,obstacle,12.0,"{'barrier_cone', 'obstacle', 'pole'}",slow,0.0,0.0,
+20240918-youtube_short_2597ec258f3a975d9005a1184cee44d4_1min37s.frame,"{'tree_plant', 'vehicle'}",False,11.0,move,clear,True,,,"{'tree_plant', 'sign'}",continue,0.0,1.0,
+20240918-youtube_short_2597ec258f3a975d9005a1184cee44d4_1min53s.frame,"{'off_route', 'vehicle'}",False,12.0,slow,slow,False,vehicle,1.0,"{'hole_uneven', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_2597ec258f3a975d9005a1184cee44d4_29s.frame,set(),True,,continue,clear,True,,,"{'tree_plant', 'sign'}",continue,,,
+20240918-youtube_short_2597ec258f3a975d9005a1184cee44d4_3min50s.frame,"{'tree_plant', 'street_object'}",False,12.0,move,move,False,obstacle,12.0,"{'barrier_cone', 'tree_plant', 'obstacle'}",move,0.0,1.0,
+20240918-youtube_short_2597ec258f3a975d9005a1184cee44d4_4min53s.frame,"{'vehicle', 'pole'}",False,12.0,move,slow,False,pedestrian,12.0,"{'pedestrian', 'pole'}",slow,0.0,1.0,
+20240918-youtube_short_2711f140bac74f83aa0a56272ec7f6de_1m55s.frame,"{'wall_door', 'off_route'}",False,12.0,move,slow,False,obstacle,12.0,"{'pedestrian', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_2711f140bac74f83aa0a56272ec7f6de_1m9s.frame,"{'pedestrian', 'pole', 'junction'}",False,12.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_2711f140bac74f83aa0a56272ec7f6de_2m43s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_2711f140bac74f83aa0a56272ec7f6de_3m28s.frame,"{'pedestrian', 'junction'}",False,12.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_2711f140bac74f83aa0a56272ec7f6de_3s.frame,"{'pedestrian', 'junction'}",False,12.0,continue,slow,False,pedestrian,11.0,"{'wall_door', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_274a445ed1e65d516636809ec370ffbe_3m10s.frame,{'furniture_stall'},False,2.0,continue,stop,False,obstacle,12.0,"{'furniture_stall', 'obstacle', 'street_object'}",stop,0.0,1.0,
+20240918-youtube_short_274a445ed1e65d516636809ec370ffbe_3m33s.frame,{'other_object'},False,11.0,continue,stop,False,wall_door,12.0,"{'wall_door', 'furniture_stall'}",stop,0.0,0.0,
+20240918-youtube_short_274a445ed1e65d516636809ec370ffbe_47s.frame,{'narrow_crowded'},False,,continue,slow,False,wall_door,12.0,"{'wall_door', 'street_object'}",slow,0.0,0.0,
+20240918-youtube_short_274a445ed1e65d516636809ec370ffbe_4m39s.frame,{'pole'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_274a445ed1e65d516636809ec370ffbe_4m42s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_274a445ed1e65d516636809ec370ffbe_56s.frame,"{'tree_plant', 'junction'}",False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'tree_plant', 'furniture_stall'}",continue,0.0,1.0,
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_1m53s.frame,{'sign'},False,12.0,continue,clear,True,,,"{'furniture_stall', 'sign'}",continue,0.0,1.0,
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_2m34s.frame,{'barrier_cone'},False,11.0,continue,caution,False,furniture_stall,12.0,"{'wall_door', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_2m40s.frame,{'barrier_cone'},False,1.0,continue,caution,False,pedestrian,11.0,"{'pedestrian', 'furniture_stall', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_2m45s.frame,{'pedestrian'},False,11.0,continue,clear,True,,,"{'pedestrian', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_3m1s.frame,{'tree_plant'},False,1.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'tree_plant', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_3m26s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_3m41s.frame,"{'pedestrian', 'pole'}",False,1.0,continue,caution,False,wall_door,11.0,"{'wall_door', 'barrier_cone', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_4m14s.frame,{'vehicle'},False,11.0,continue,caution,False,vehicle,11.0,"{'furniture_stall', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_4m22s.frame,{'vehicle'},False,11.0,continue,caution,False,vehicle,1.0,{'vehicle'},continue,1.0,1.0,0.0
+20240918-youtube_short_27d4d241260785889f7d22b919dfddaa_4m56s.frame,"{'vehicle', 'pole'}",False,10.0,continue,caution,False,vehicle,12.0,"{'street_object', 'vehicle'}",continue,1.0,1.0,0.0
+20240918-youtube_short_2a0137567d5dd81e6b874c2f28a1eba1_2m9s.frame,{'stairs_step'},False,,continue,caution,False,pedestrian,11.0,"{'wall_door', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_2a0137567d5dd81e6b874c2f28a1eba1_40s.frame,"{'tree_plant', 'pedestrian', 'narrow_crowded'}",False,12.0,stop,caution,False,obstacle,1.0,"{'pedestrian', 'obstacle'}",continue,0.0,1.0,
+20240918-youtube_short_2e74c9e8b9f9498b4760cbacbf91a793_1min30s.frame,{'vehicle'},False,,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_2e74c9e8b9f9498b4760cbacbf91a793_24s.frame,set(),True,,continue,caution,False,barrier_cone,1.0,"{'barrier_cone', 'vehicle'}",continue,,,
+20240918-youtube_short_2e74c9e8b9f9498b4760cbacbf91a793_2min26s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_2e74c9e8b9f9498b4760cbacbf91a793_2min45s.frame,{'pole'},False,10.0,continue,move,False,hole_uneven,12.0,"{'pedestrian', 'two_wheeler', 'hole_uneven'}",move,0.0,0.0,
+20240918-youtube_short_2e74c9e8b9f9498b4760cbacbf91a793_3min2s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_2e74c9e8b9f9498b4760cbacbf91a793_3min33s.frame,{'pedestrian'},False,12.0,continue,slow,False,furniture_stall,1.0,"{'furniture_stall', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_2e74c9e8b9f9498b4760cbacbf91a793_3min56s.frame,{'tree_plant'},False,12.0,continue,slow,False,pedestrian,11.0,"{'pedestrian', 'pole'}",slow,0.0,0.0,
+20240918-youtube_short_2e74c9e8b9f9498b4760cbacbf91a793_3min6s.frame,{'pedestrian'},False,11.0,continue,stop,False,pedestrian,11.0,{'pedestrian'},stop,1.0,1.0,1.0
+20240918-youtube_short_2f2ffc86e633b533e5b5c4e75dcbe53a_25.frame,{'other_object'},False,12.0,continue,stop,False,wall_door,11.0,{'wall_door'},stop,0.0,0.0,
+20240918-youtube_short_2f2ffc86e633b533e5b5c4e75dcbe53a_2min23s.frame,{'barrier_cone'},False,1.0,slow,slow,False,fence_railing,12.0,"{'wall_door', 'fence_railing'}",slow,0.0,0.0,
+20240918-youtube_short_2f2ffc86e633b533e5b5c4e75dcbe53a_2min50s.frame,"{'barrier_cone', 'pedestrian', 'narrow_crowded'}",False,1.0,slow,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_2f2ffc86e633b533e5b5c4e75dcbe53a_3min45s.frame,"{'wall_door', 'barrier_cone', 'off_route'}",False,11.0,continue,slow,False,wall_door,12.0,{'wall_door'},slow,1.0,1.0,1.0
+20240918-youtube_short_2f2ffc86e633b533e5b5c4e75dcbe53a_4min44s.frame,"{'fence_railing', 'pedestrian', 'street_object', 'narrow_crowded'}",False,1.0,continue,slow,False,stairs_step,12.0,"{'stairs_step', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_2f2ffc86e633b533e5b5c4e75dcbe53a_4min56s.frame,"{'barrier_cone', 'pedestrian'}",False,1.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_306fb39eb72e4b1bc22d858044a74fbe_1min38s.frame,"{'curb_edge', 'vehicle', 'sign'}",False,11.0,continue,slow,False,two_wheeler,11.0,"{'furniture_stall', 'two_wheeler', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_306fb39eb72e4b1bc22d858044a74fbe_25s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_306fb39eb72e4b1bc22d858044a74fbe_4min34s.frame,"{'furniture_stall', 'pole'}",False,11.0,slow,caution,False,sign,12.0,"{'sign', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_3098c9ca169029f986b8f2018e78dc45_1min25s.frame,{'pole'},False,1.0,continue,caution,False,pole,1.0,"{'wall_door', 'sign', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_3098c9ca169029f986b8f2018e78dc45_1min31s.frame,{'junction'},False,12.0,continue,clear,True,,,"{'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_3098c9ca169029f986b8f2018e78dc45_2min3s.frame,{'pole'},False,1.0,continue,caution,False,obstacle,1.0,"{'tree_plant', 'obstacle'}",continue,0.0,0.0,
+20240918-youtube_short_3098c9ca169029f986b8f2018e78dc45_4s.frame,{'vehicle'},False,1.0,continue,caution,False,two_wheeler,12.0,{'two_wheeler'},continue,0.0,0.0,
+20240918-youtube_short_3098c9ca169029f986b8f2018e78dc45_9s.frame,"{'pedestrian', 'vehicle'}",False,11.0,slow,slow,False,vehicle,11.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_312bcd43d41b0a272cca6311af211c8d_1min10s.frame,{'off_route'},False,,move,slow,False,water,12.0,{'water'},slow,0.0,0.0,
+20240918-youtube_short_312bcd43d41b0a272cca6311af211c8d_1min15s.frame,{'off_route'},False,,move,stop,False,wall_door,12.0,"{'wall_door', 'vehicle', 'pole'}",stop,0.0,0.0,
+20240918-youtube_short_312bcd43d41b0a272cca6311af211c8d_2min05s.frame,{'vehicle'},False,12.0,move,clear,True,,,{'vehicle'},continue,0.0,1.0,
+20240918-youtube_short_312bcd43d41b0a272cca6311af211c8d_35s.frame,{'water'},False,12.0,move,slow,False,water,12.0,{'water'},slow,1.0,1.0,1.0
+20240918-youtube_short_317944b237d9070b714f66e3ce863618_12s.frame,{'pedestrian'},False,1.0,continue,caution,False,vehicle,12.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_317944b237d9070b714f66e3ce863618_1m7s.frame,{'barrier_cone'},False,1.0,continue,caution,False,obstacle,12.0,"{'wall_door', 'pedestrian', 'obstacle'}",continue,0.0,0.0,
+20240918-youtube_short_317944b237d9070b714f66e3ce863618_48s.frame,{'pedestrian'},False,11.0,continue,caution,False,vehicle,11.0,{'vehicle'},continue,0.0,0.0,
+20240918-youtube_short_317944b237d9070b714f66e3ce863618_4m43s.frame,{'pole'},False,1.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'sign'}",slow,0.0,0.0,
+20240918-youtube_short_32a4712e161563120ceab990072f45e7_14s.frame,{'pedestrian'},False,11.0,continue,slow,False,vehicle,11.0,"{'pedestrian', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_32a4712e161563120ceab990072f45e7_46s.frame,{'furniture_stall'},False,1.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_32b548b74d840115f72f37c09082b628_2min40s.frame,{'wall_door'},False,1.0,slow,caution,False,wall_door,12.0,"{'wall_door', 'furniture_stall'}",continue,1.0,1.0,1.0
+20240918-youtube_short_32b548b74d840115f72f37c09082b628_3min11s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_32b548b74d840115f72f37c09082b628_3min37s.frame,{'pedestrian'},False,11.0,move,slow,False,pedestrian,11.0,"{'tree_plant', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_32b548b74d840115f72f37c09082b628_3min59s.frame,"{'fence_railing', 'pedestrian', 'narrow_crowded'}",False,11.0,slow,slow,False,pedestrian,12.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_32b548b74d840115f72f37c09082b628_44s.frame,{'pole'},False,11.0,continue,caution,False,sign,12.0,"{'pedestrian', 'sign', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_34d399323784b1049e6a1b5c16a4cb94_3m44s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,11.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_34d399323784b1049e6a1b5c16a4cb94_4m3s.frame,{'pedestrian'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_355620d2e59040e17529e887a77c5fd8_1min51s.frame,{'pedestrian'},False,12.0,continue,caution,False,stairs_step,12.0,"{'wall_door', 'stairs_step'}",continue,0.0,0.0,
+20240918-youtube_short_355620d2e59040e17529e887a77c5fd8_2min04s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_355620d2e59040e17529e887a77c5fd8_2min14s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_355620d2e59040e17529e887a77c5fd8_3min10s.frame,{'pedestrian'},False,11.0,continue,caution,False,water,12.0,"{'stairs_step', 'water'}",continue,0.0,0.0,
+20240918-youtube_short_355620d2e59040e17529e887a77c5fd8_59s.frame,set(),True,,continue,clear,True,,,"{'pedestrian', 'vehicle'}",continue,,,
+20240918-youtube_short_37cdce36379d78f03eeda762469b5afb_19s.frame,{'pole'},False,11.0,continue,move,False,vehicle,11.0,"{'wall_door', 'vehicle'}",move,0.0,0.0,
+20240918-youtube_short_37cdce36379d78f03eeda762469b5afb_1m52s.frame,{'street_object'},False,12.0,continue,caution,False,stairs_step,12.0,{'stairs_step'},continue,0.0,0.0,
+20240918-youtube_short_37cdce36379d78f03eeda762469b5afb_2m20s.frame,{'street_object'},False,1.0,continue,slow,False,animal,12.0,{'animal'},slow,0.0,0.0,
+20240918-youtube_short_37cdce36379d78f03eeda762469b5afb_2m39s.frame,set(),True,,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'street_object', 'animal'}",continue,,,
+20240918-youtube_short_37cdce36379d78f03eeda762469b5afb_2m48s.frame,set(),True,,continue,clear,True,,,{'tree_plant'},continue,,,
+20240918-youtube_short_37fefd21d441ed17674ebf6d2bb293d8_1m18s.frame,"{'vehicle', 'pole'}",False,11.0,continue,caution,False,barrier_cone,1.0,"{'barrier_cone', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_37fefd21d441ed17674ebf6d2bb293d8_31s.frame,{'pole'},False,11.0,continue,caution,False,vehicle,12.0,"{'barrier_cone', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_37fefd21d441ed17674ebf6d2bb293d8_37s.frame,"{'barrier_cone', 'pedestrian', 'two_wheeler'}",False,11.0,continue,caution,False,barrier_cone,12.0,"{'barrier_cone', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_37fefd21d441ed17674ebf6d2bb293d8_3m10s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",continue,1.0,1.0,1.0
+20240918-youtube_short_37fefd21d441ed17674ebf6d2bb293d8_4m51s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_392b4dd4ab6a018d286eeed3bae3ec8d_1min31s.frame,{'off_route'},False,,move,move,False,wall_door,12.0,"{'wall_door', 'fence_railing'}",move,0.0,0.0,
+20240918-youtube_short_392b4dd4ab6a018d286eeed3bae3ec8d_2min46s.frame,"{'curb_edge', 'two_wheeler'}",False,1.0,continue,caution,False,two_wheeler,12.0,"{'two_wheeler', 'street_object'}",continue,1.0,1.0,1.0
+20240918-youtube_short_392b4dd4ab6a018d286eeed3bae3ec8d_4min29s.frame,{'pedestrian'},False,10.0,continue,slow,False,vehicle,1.0,"{'pedestrian', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_1m10s.frame,"{'furniture_stall', 'pedestrian'}",False,12.0,continue,stop,False,obstacle,1.0,{'obstacle'},stop,0.0,0.0,
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_2m15s.frame,"{'pedestrian', 'furniture_stall'}",False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_2m30s.frame,{'pedestrian'},False,11.0,continue,move,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",move,0.0,1.0,
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_3m1s.frame,"{'pedestrian', 'furniture_stall'}",False,11.0,continue,slow,False,two_wheeler,12.0,"{'two_wheeler', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_3m36s.frame,"{'pedestrian', 'sign'}",False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_3m39s.frame,"{'pedestrian', 'off_route', 'pole'}",False,,move,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_4m23s.frame,{'pedestrian'},False,12.0,continue,caution,False,stairs_step,11.0,"{'tree_plant', 'stairs_step', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_4m28s.frame,{'stairs_step'},False,1.0,continue,caution,False,stairs_step,11.0,"{'wall_door', 'stairs_step'}",continue,1.0,1.0,0.0
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_4m57s.frame,{'pole'},False,12.0,continue,slow,False,vehicle,1.0,{'vehicle'},slow,0.0,0.0,
+20240918-youtube_short_3b3a2f59ac06bd75e0c957321dd314dc_5s.frame,"{'curb_edge', 'pedestrian'}",False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_3c42620fbecabf988269deda8f81face_1m20s.frame,{'vehicle'},False,2.0,continue,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,0.0
+20240918-youtube_short_3c42620fbecabf988269deda8f81face_1m24s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_3c42620fbecabf988269deda8f81face_2m32s.frame,{'furniture_stall'},False,11.0,continue,slow,False,pedestrian,1.0,"{'pedestrian', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_3c42620fbecabf988269deda8f81face_4m16s.frame,{'narrow_crowded'},False,,continue,caution,False,vehicle,1.0,"{'pedestrian', 'obstacle', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_3c5dddfa21d5754c9242b2183958d40d_2m24s.frame,{'tree_plant'},False,11.0,continue,slow,False,vehicle,11.0,{'vehicle'},slow,0.0,0.0,
+20240918-youtube_short_3c5dddfa21d5754c9242b2183958d40d_2m37s.frame,"{'pedestrian', 'vehicle'}",False,12.0,continue,clear,True,,,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_3c5dddfa21d5754c9242b2183958d40d_3m25s.frame,"{'barrier_cone', 'pole'}",False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'barrier_cone'}",continue,0.0,1.0,
+20240918-youtube_short_3c5dddfa21d5754c9242b2183958d40d_3m57s.frame,{'wall_door'},False,11.0,continue,caution,False,stairs_step,12.0,"{'wall_door', 'stairs_step'}",continue,0.0,1.0,
+20240918-youtube_short_3c5dddfa21d5754c9242b2183958d40d_45s.frame,{'off_route'},False,,continue,move,False,wall_door,12.0,"{'wall_door', 'tree_plant', 'pole'}",move,0.0,0.0,
+20240918-youtube_short_3c5dddfa21d5754c9242b2183958d40d_49s.frame,set(),True,,continue,stop,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",stop,,,
+20240918-youtube_short_3c5dddfa21d5754c9242b2183958d40d_4m45s.frame,{'two_wheeler'},False,11.0,continue,slow,False,two_wheeler,11.0,{'two_wheeler'},slow,1.0,1.0,1.0
+20240918-youtube_short_3c5dddfa21d5754c9242b2183958d40d_6s.frame,{'tree_plant'},False,1.0,continue,clear,True,,,set(),continue,0.0,0.0,
+20240918-youtube_short_3e2ff8bf4e1cbdd3ba2418283bc0d259_1min48s.frame,"{'barrier_cone', 'other_object'}",False,1.0,continue,caution,False,stairs_step,12.0,"{'wall_door', 'barrier_cone', 'stairs_step'}",continue,0.0,1.0,
+20240918-youtube_short_3e2ff8bf4e1cbdd3ba2418283bc0d259_3min21s.frame,"{'vehicle', 'junction'}",False,12.0,continue,clear,True,,,"{'barrier_cone', 'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_3e2ff8bf4e1cbdd3ba2418283bc0d259_3min39s.frame,"{'vehicle', 'pole'}",False,1.0,continue,clear,True,,,"{'pedestrian', 'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_3e2ff8bf4e1cbdd3ba2418283bc0d259_3min57s.frame,{'furniture_stall'},False,11.0,continue,clear,True,,,"{'furniture_stall', 'pedestrian', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_3e2ff8bf4e1cbdd3ba2418283bc0d259_56s.frame,"{'barrier_cone', 'pole'}",False,1.0,continue,clear,True,,,"{'barrier_cone', 'sign'}",continue,0.0,1.0,
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_18s.frame,"{'barrier_cone', 'other_object'}",False,1.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_1min22s.frame,"{'fence_railing', 'pedestrian', 'narrow_crowded', 'junction'}",False,11.0,continue,slow,False,furniture_stall,11.0,"{'furniture_stall', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_23s.frame,"{'furniture_stall', 'junction'}",False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_2min24s.frame,"{'barrier_cone', 'pedestrian'}",False,12.0,slow,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_2min41s.frame,{'barrier_cone'},False,12.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_4min12s.frame,{'wall_door'},False,1.0,continue,caution,False,pedestrian,1.0,"{'tree_plant', 'pedestrian', 'wall_door'}",continue,0.0,1.0,
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_4min37s.frame,"{'barrier_cone', 'pedestrian', 'narrow_crowded'}",False,11.0,slow,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_4min40s.frame,"{'barrier_cone', 'pedestrian', 'narrow_crowded'}",False,11.0,continue,move,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",move,0.0,1.0,
+20240918-youtube_short_3f04b3e123da951818fe38f0d684637a_53s.frame,"{'wall_door', 'pedestrian'}",False,11.0,slow,slow,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_40c308cc289e558a106116eba416fae1_25s.frame,{'barrier_cone'},False,1.0,continue,move,False,water,12.0,{'water'},move,0.0,0.0,
+20240918-youtube_short_40c308cc289e558a106116eba416fae1_3min38s.frame,{'vehicle'},False,1.0,slow,caution,False,two_wheeler,12.0,{'two_wheeler'},continue,0.0,0.0,
+20240918-youtube_short_40c308cc289e558a106116eba416fae1_4min51s.frame,{'barrier_cone'},False,12.0,continue,move,False,wall_door,12.0,{'wall_door'},move,0.0,0.0,
+20240918-youtube_short_41a6187f2ff0c7dca7894db032d49f6a_1m2s.frame,"{'pedestrian', 'sign'}",False,1.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_41a6187f2ff0c7dca7894db032d49f6a_2m2s.frame,"{'pedestrian', 'narrow_crowded'}",False,11.0,continue,slow,False,pedestrian,1.0,"{'wall_door', 'pedestrian'}",slow,1.0,1.0,0.0
+20240918-youtube_short_41a6187f2ff0c7dca7894db032d49f6a_4m55s.frame,{'fence_railing'},False,12.0,move,slow,False,stairs_step,12.0,"{'stairs_step', 'pedestrian'}",slow,0.0,0.0,
+20240918-youtube_short_4498c4357d06caf55976aa0603fefde5_1min28s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_4498c4357d06caf55976aa0603fefde5_21s.frame,"{'pedestrian', 'pole'}",False,12.0,continue,caution,False,pedestrian,12.0,"{'tree_plant', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_4498c4357d06caf55976aa0603fefde5_2min23s.frame,{'vehicle'},False,12.0,slow,caution,False,vehicle,12.0,"{'vehicle', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_4498c4357d06caf55976aa0603fefde5_4min42s.frame,set(),True,,continue,caution,False,wall_door,12.0,"{'wall_door', 'barrier_cone'}",continue,,,
+20240918-youtube_short_4498c4357d06caf55976aa0603fefde5_57s.frame,"{'curb_edge', 'vehicle'}",False,12.0,slow,slow,False,vehicle,11.0,"{'barrier_cone', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_4587ed9d532ec5e77387defad9331519_11s.frame,set(),True,,continue,slow,False,vehicle,1.0,"{'two_wheeler', 'vehicle'}",slow,,,
+20240918-youtube_short_4587ed9d532ec5e77387defad9331519_19s.frame,"{'curb_edge', 'pedestrian', 'vehicle'}",False,1.0,continue,slow,False,vehicle,12.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_4587ed9d532ec5e77387defad9331519_1min56s.frame,{'pedestrian'},False,2.0,continue,clear,True,,,"{'furniture_stall', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_4587ed9d532ec5e77387defad9331519_29s.frame,"{'curb_edge', 'vehicle'}",False,3.0,slow,slow,False,two_wheeler,1.0,{'two_wheeler'},slow,0.0,0.0,
+20240918-youtube_short_4587ed9d532ec5e77387defad9331519_3min18s.frame,"{'off_route', 'vehicle'}",False,1.0,move,slow,False,vehicle,12.0,"{'barrier_cone', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_4b9086a048054c8fbd41b2b785685d67_19s.frame,{'pedestrian'},False,1.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_4b9086a048054c8fbd41b2b785685d67_2m11s.frame,"{'pedestrian', 'sign'}",False,11.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_4b9086a048054c8fbd41b2b785685d67_3m1s.frame,{'street_object'},False,1.0,continue,slow,False,street_object,12.0,"{'wall_door', 'street_object'}",slow,1.0,1.0,1.0
+20240918-youtube_short_4b9086a048054c8fbd41b2b785685d67_3m42s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",slow,1.0,1.0,1.0
+20240918-youtube_short_4b9086a048054c8fbd41b2b785685d67_4m20s.frame,{'fence_railing'},False,1.0,continue,move,False,wall_door,12.0,"{'wall_door', 'furniture_stall', 'tree_plant'}",move,0.0,0.0,
+20240918-youtube_short_4b9086a048054c8fbd41b2b785685d67_4m43s.frame,set(),True,,continue,caution,False,street_object,1.0,"{'wall_door', 'street_object'}",continue,,,
+20240918-youtube_short_4c6c61c8492338bbff025b07e8faf386_3min30s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,11.0,"{'wall_door', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_4c6c61c8492338bbff025b07e8faf386_3min34s.frame,{'sign'},False,12.0,continue,slow,False,two_wheeler,1.0,"{'two_wheeler', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_4c6c61c8492338bbff025b07e8faf386_49s.frame,"{'tree_plant', 'fence_railing'}",False,,continue,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_4c6c61c8492338bbff025b07e8faf386_4min29s.frame,set(),True,,continue,caution,False,wall_door,11.0,{'wall_door'},continue,,,
+20240918-youtube_short_4c6c61c8492338bbff025b07e8faf386_57s.frame,{'two_wheeler'},False,1.0,continue,slow,False,vehicle,1.0,{'vehicle'},slow,0.0,0.0,
+20240918-youtube_short_4cb93ddb3f96c08e4e5a50894c7b7998_21s.frame,{'pedestrian'},False,11.0,continue,slow,False,stairs_step,12.0,{'stairs_step'},slow,0.0,0.0,
+20240918-youtube_short_4cb93ddb3f96c08e4e5a50894c7b7998_2m49s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_4cb93ddb3f96c08e4e5a50894c7b7998_3m27s.frame,{'pedestrian'},False,1.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",continue,1.0,1.0,1.0
+20240918-youtube_short_4cb93ddb3f96c08e4e5a50894c7b7998_4m15s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_4cb93ddb3f96c08e4e5a50894c7b7998_4m30s.frame,{'street_object'},False,11.0,continue,caution,False,pedestrian,11.0,"{'pedestrian', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_4cb93ddb3f96c08e4e5a50894c7b7998_4m45s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_4e5de7b53519d569563bb6e8f3d9671a_1m37s.frame,set(),True,,continue,caution,False,fence_railing,12.0,"{'fence_railing', 'pedestrian'}",continue,,,
+20240918-youtube_short_4e5de7b53519d569563bb6e8f3d9671a_3m16s.frame,{'water'},False,12.0,move,slow,False,water,12.0,"{'wall_door', 'fence_railing', 'water'}",slow,1.0,1.0,1.0
+20240918-youtube_short_4e5de7b53519d569563bb6e8f3d9671a_4m16s.frame,{'pedestrian'},False,2.0,continue,caution,False,fence_railing,12.0,"{'fence_railing', 'water', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_4e5de7b53519d569563bb6e8f3d9671a_5s.frame,"{'fence_railing', 'water'}",False,12.0,continue,caution,False,water,12.0,{'water'},continue,1.0,1.0,1.0
+20240918-youtube_short_4f846a8342b15a3d6cb98072a8e47d7d_3m32s.frame,"{'vehicle', 'pole'}",False,11.0,continue,caution,False,vehicle,11.0,"{'barrier_cone', 'two_wheeler', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_4f846a8342b15a3d6cb98072a8e47d7d_42s.frame,{'other_object'},False,1.0,continue,caution,False,furniture_stall,1.0,"{'fence_railing', 'furniture_stall', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_4f846a8342b15a3d6cb98072a8e47d7d_4m58s.frame,{'other_object'},False,11.0,continue,caution,False,tree_plant,12.0,"{'tree_plant', 'sign'}",continue,0.0,0.0,
+20240918-youtube_short_4f846a8342b15a3d6cb98072a8e47d7d_50s.frame,{'tree_plant'},False,1.0,continue,caution,False,water,11.0,"{'wall_door', 'pedestrian', 'water'}",continue,0.0,0.0,
+20240918-youtube_short_520e4e49e39ec96a759d921421bfcead_1min10s.frame,{'pedestrian'},False,1.0,continue,caution,False,wall_door,11.0,{'wall_door'},continue,0.0,0.0,
+20240918-youtube_short_520e4e49e39ec96a759d921421bfcead_1min44s.frame,{'off_route'},False,1.0,continue,caution,False,stairs_step,11.0,"{'wall_door', 'stairs_step'}",continue,0.0,0.0,
+20240918-youtube_short_520e4e49e39ec96a759d921421bfcead_3min16s.frame,"{'curb_edge', 'off_route', 'vehicle'}",False,,continue,slow,False,vehicle,12.0,"{'fence_railing', 'pedestrian', 'vehicle'}",slow,1.0,1.0,
+20240918-youtube_short_520e4e49e39ec96a759d921421bfcead_4min12s.frame,{'vehicle'},False,12.0,move,slow,False,vehicle,12.0,{'vehicle'},slow,1.0,1.0,1.0
+20240918-youtube_short_5405d0b6ab125d397f5cc7a91206601b_1m26s.frame,{'vehicle'},False,1.0,continue,slow,False,vehicle,1.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_5405d0b6ab125d397f5cc7a91206601b_1m33s.frame,{'barrier_cone'},False,11.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_5405d0b6ab125d397f5cc7a91206601b_1m36s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,11.0,"{'pedestrian', 'sign'}",continue,1.0,1.0,1.0
+20240918-youtube_short_5405d0b6ab125d397f5cc7a91206601b_27s.frame,"{'curb_edge', 'pedestrian', 'pole'}",False,1.0,continue,caution,False,pedestrian,1.0,"{'pedestrian', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_57751a72d8c3271408e150ccea69d152_27s.frame,{'pedestrian'},False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'street_object'}",slow,0.0,0.0,
+20240918-youtube_short_57751a72d8c3271408e150ccea69d152_2min6s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_57751a72d8c3271408e150ccea69d152_37s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_57751a72d8c3271408e150ccea69d152_3min14s.frame,{'pedestrian'},False,10.0,continue,slow,False,stairs_step,12.0,{'stairs_step'},slow,0.0,0.0,
+20240918-youtube_short_57751a72d8c3271408e150ccea69d152_3min22s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_57751a72d8c3271408e150ccea69d152_3min4s.frame,{'fence_railing'},False,12.0,move,slow,False,water,12.0,"{'water', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_57751a72d8c3271408e150ccea69d152_4min58s.frame,{'fence_railing'},False,,continue,slow,False,water,12.0,{'water'},slow,0.0,0.0,
+20240918-youtube_short_57751a72d8c3271408e150ccea69d152_57s.frame,{'pedestrian'},False,9.0,slow,slow,False,obstacle,12.0,"{'wall_door', 'pedestrian', 'obstacle'}",slow,0.0,1.0,
+20240918-youtube_short_5787ae3d86a7e1f0e44b8227ce7232d2_1min03s.frame,{'pedestrian'},False,10.0,continue,clear,True,,,"{'pedestrian', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_5787ae3d86a7e1f0e44b8227ce7232d2_1min53s.frame,"{'furniture_stall', 'off_route', 'junction'}",False,12.0,move,caution,False,furniture_stall,12.0,"{'barrier_cone', 'furniture_stall'}",continue,1.0,1.0,1.0
+20240918-youtube_short_5787ae3d86a7e1f0e44b8227ce7232d2_2min53s.frame,{'junction'},False,,continue,slow,False,sign,12.0,"{'wall_door', 'sign'}",slow,0.0,0.0,
+20240918-youtube_short_5787ae3d86a7e1f0e44b8227ce7232d2_4min13s.frame,"{'pedestrian', 'vehicle'}",False,12.0,slow,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler', 'furniture_stall'}",continue,0.0,1.0,
+20240918-youtube_short_59024dbcaed666e4d5fec4401c10bc1e_16s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_59024dbcaed666e4d5fec4401c10bc1e_1m32s.frame,"{'pedestrian', 'street_object'}",False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler'}",slow,1.0,1.0,1.0
+20240918-youtube_short_5e56faceeb756ace1d3f507827bdea55_4m20s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_6174224c948d1795f75aa93145cc299f_4s.frame,{'other_object'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'sign'}",slow,0.0,0.0,
+20240918-youtube_short_63f903c7cce132780eaaf10872a3b305_1m21s.frame,{'vehicle'},False,1.0,slow,clear,True,,,"{'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_63f903c7cce132780eaaf10872a3b305_1m28s.frame,{'pole'},False,11.0,continue,caution,False,two_wheeler,11.0,"{'two_wheeler', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_63f903c7cce132780eaaf10872a3b305_22s.frame,{'pole'},False,1.0,continue,caution,False,pole,12.0,"{'pedestrian', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_63f903c7cce132780eaaf10872a3b305_30s.frame,{'vehicle'},False,11.0,stop,caution,False,pedestrian,12.0,"{'pedestrian', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_6463268048ba046586c17d949c705668_1m14s.frame,{'sign'},False,2.0,continue,slow,False,pedestrian,11.0,"{'pedestrian', 'obstacle', 'street_object'}",slow,0.0,0.0,
+20240918-youtube_short_6463268048ba046586c17d949c705668_1m3s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_6463268048ba046586c17d949c705668_28s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_6463268048ba046586c17d949c705668_2m48s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_6463268048ba046586c17d949c705668_37s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_6463268048ba046586c17d949c705668_3m59s.frame,{'pedestrian'},False,11.0,continue,caution,False,furniture_stall,11.0,"{'furniture_stall', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_6463268048ba046586c17d949c705668_3m9s.frame,{'narrow_crowded'},False,,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_6463268048ba046586c17d949c705668_4m27s.frame,{'vehicle'},False,12.0,continue,slow,False,vehicle,12.0,{'vehicle'},slow,1.0,1.0,1.0
+20240918-youtube_short_6463268048ba046586c17d949c705668_4m57s.frame,{'pedestrian'},False,11.0,continue,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_64d38c688038dd672b9ef8606594cc5c_1m25s.frame,{'furniture_stall'},False,11.0,continue,slow,False,furniture_stall,12.0,{'furniture_stall'},slow,1.0,1.0,1.0
+20240918-youtube_short_64d38c688038dd672b9ef8606594cc5c_1m42s.frame,{'pedestrian'},False,11.0,continue,slow,False,stairs_step,12.0,"{'stairs_step', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_64d38c688038dd672b9ef8606594cc5c_1m8s.frame,{'pedestrian'},False,2.0,continue,slow,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_64d38c688038dd672b9ef8606594cc5c_2m25s.frame,{'tree_plant'},False,11.0,continue,caution,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_64d38c688038dd672b9ef8606594cc5c_48s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_64d38c688038dd672b9ef8606594cc5c_4m36s.frame,{'junction'},False,11.0,continue,slow,False,vehicle,1.0,"{'pedestrian', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_64d38c688038dd672b9ef8606594cc5c_4m59s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_650938b7f161902562ca0a2167e3fe77_10s.frame,"{'fence_railing', 'pole'}",False,11.0,continue,move,False,fence_railing,12.0,"{'fence_railing', 'pole'}",move,1.0,1.0,1.0
+20240918-youtube_short_650938b7f161902562ca0a2167e3fe77_1m39s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_650938b7f161902562ca0a2167e3fe77_1m5s.frame,"{'wall_door', 'fence_railing', 'sign'}",False,11.0,continue,caution,False,wall_door,11.0,"{'wall_door', 'fence_railing'}",continue,1.0,1.0,1.0
+20240918-youtube_short_650938b7f161902562ca0a2167e3fe77_2m48s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_650938b7f161902562ca0a2167e3fe77_2m53s.frame,{'narrow_crowded'},False,,slow,slow,False,pedestrian,1.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_650938b7f161902562ca0a2167e3fe77_36s.frame,"{'fence_railing', 'off_route'}",False,,continue,slow,False,fence_railing,12.0,"{'wall_door', 'fence_railing', 'pedestrian'}",slow,1.0,1.0,
+20240918-youtube_short_650938b7f161902562ca0a2167e3fe77_52s.frame,{'fence_railing'},False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'fence_railing'}",slow,0.0,1.0,
+20240918-youtube_short_650938b7f161902562ca0a2167e3fe77_57s.frame,"{'fence_railing', 'off_route'}",False,,move,caution,False,fence_railing,1.0,"{'wall_door', 'fence_railing'}",continue,1.0,1.0,
+20240918-youtube_short_6b93cf4f865dfc0b8c8a9e09191cdf68_2min29s.frame,"{'street_object', 'pole'}",False,12.0,slow,slow,False,stairs_step,12.0,{'stairs_step'},slow,0.0,0.0,
+20240918-youtube_short_6b93cf4f865dfc0b8c8a9e09191cdf68_3min05s.frame,{'furniture_stall'},False,12.0,move,slow,False,pedestrian,12.0,"{'wall_door', 'pedestrian', 'street_object'}",slow,0.0,0.0,
+20240918-youtube_short_6b93cf4f865dfc0b8c8a9e09191cdf68_3min59s.frame,{'pedestrian'},False,10.0,slow,slow,False,two_wheeler,1.0,"{'pedestrian', 'two_wheeler'}",slow,0.0,1.0,
+20240918-youtube_short_6b93cf4f865dfc0b8c8a9e09191cdf68_42s.frame,"{'vehicle', 'pole'}",False,2.0,continue,caution,False,street_object,1.0,"{'tree_plant', 'street_object', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_6b93cf4f865dfc0b8c8a9e09191cdf68_4min04s.frame,{'pedestrian'},False,12.0,move,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_6b93cf4f865dfc0b8c8a9e09191cdf68_4min11s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_6b93cf4f865dfc0b8c8a9e09191cdf68_4min23s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_6b93cf4f865dfc0b8c8a9e09191cdf68_4min45s.frame,{'pedestrian'},False,11.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_6d446c74d32e7be1e1c20f316db1beb1_13s.frame,{'vehicle'},False,12.0,stop,clear,True,,,{'vehicle'},continue,0.0,1.0,
+20240918-youtube_short_6d446c74d32e7be1e1c20f316db1beb1_1m58s.frame,{'vehicle'},False,11.0,continue,slow,False,street_object,12.0,"{'furniture_stall', 'street_object'}",slow,0.0,0.0,
+20240918-youtube_short_6d446c74d32e7be1e1c20f316db1beb1_2m17s.frame,"{'curb_edge', 'vehicle'}",False,12.0,continue,slow,False,vehicle,1.0,"{'street_object', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_7419b742c07a7fcac3595bbce3dde5e8_29s.frame,{'pedestrian'},False,1.0,slow,caution,False,pedestrian,12.0,"{'pedestrian', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_7419b742c07a7fcac3595bbce3dde5e8_2min08s.frame,{'tree_plant'},False,1.0,continue,caution,False,two_wheeler,11.0,"{'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_7419b742c07a7fcac3595bbce3dde5e8_3min38s.frame,"{'vehicle', 'sign', 'pole'}",False,11.0,move,slow,False,vehicle,12.0,"{'barrier_cone', 'furniture_stall', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_7419b742c07a7fcac3595bbce3dde5e8_4min40s.frame,{'other_object'},False,1.0,continue,clear,True,,,"{'pedestrian', 'sign', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_7419b742c07a7fcac3595bbce3dde5e8_59s.frame,{'off_route'},False,,move,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_77f91b8639adebd22a8b3c6af9de5a07_2min25s.frame,{'pedestrian'},False,11.0,move,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_77f91b8639adebd22a8b3c6af9de5a07_3min14s.frame,{'pedestrian'},False,10.0,slow,stop,False,pedestrian,11.0,{'pedestrian'},stop,1.0,1.0,1.0
+20240918-youtube_short_77f91b8639adebd22a8b3c6af9de5a07_4min03s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_77f91b8639adebd22a8b3c6af9de5a07_4min58s.frame,{'pedestrian'},False,12.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_77f91b8639adebd22a8b3c6af9de5a07_51s.frame,{'pedestrian'},False,12.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_799d509974f4eca2f0ab4811addfab1f_27s.frame,set(),True,,continue,move,False,wall_door,12.0,{'wall_door'},move,,,
+20240918-youtube_short_799d509974f4eca2f0ab4811addfab1f_32s.frame,set(),True,,continue,clear,True,,,set(),continue,,,
+20240918-youtube_short_799d509974f4eca2f0ab4811addfab1f_37s.frame,{'sign'},False,12.0,slow,caution,False,fence_railing,12.0,"{'wall_door', 'fence_railing', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_7ac34140441d03fe435bc3cc9c8080f3_3m24s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_7c2e0a9585c2e416ecb5160c84aa2a5b_1min38s.frame,{'pole'},False,2.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_7c2e0a9585c2e416ecb5160c84aa2a5b_1min7s.frame,{'fence_railing'},False,9.0,continue,slow,False,vehicle,12.0,"{'wall_door', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_7c2e0a9585c2e416ecb5160c84aa2a5b_2min34s.frame,{'other_object'},False,11.0,continue,caution,False,water,11.0,"{'wall_door', 'water', 'sign'}",continue,0.0,0.0,
+20240918-youtube_short_7c2e0a9585c2e416ecb5160c84aa2a5b_4min19s.frame,{'pedestrian'},False,1.0,continue,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_11s.frame,{'wall_door'},False,12.0,continue,slow,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_17s.frame,{'pedestrian'},False,1.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_1min22s.frame,"{'furniture_stall', 'pedestrian'}",False,1.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",slow,1.0,1.0,1.0
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_1min53s.frame,"{'furniture_stall', 'pedestrian', 'sign'}",False,11.0,slow,slow,False,pedestrian,1.0,"{'pedestrian', 'furniture_stall'}",slow,1.0,1.0,0.0
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_2min03s.frame,{'junction'},False,12.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_2min13s.frame,"{'water', 'pole'}",False,12.0,continue,slow,False,water,12.0,{'water'},slow,1.0,1.0,1.0
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_2min25s.frame,"{'pedestrian', 'junction'}",False,,slow,caution,False,furniture_stall,12.0,"{'furniture_stall', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_2min38s.frame,{'pedestrian'},False,11.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_3min20s.frame,{'pedestrian'},False,12.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_4min08s.frame,{'junction'},False,,continue,slow,False,obstacle,12.0,"{'pedestrian', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_7cb7f3878edb0289aed21059ced39d06_4min48s.frame,"{'wall_door', 'pedestrian'}",False,10.0,continue,caution,False,pedestrian,11.0,"{'pedestrian', 'street_object'}",continue,1.0,1.0,1.0
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_16s.frame,{'vehicle'},False,11.0,continue,caution,False,pedestrian,12.0,"{'barrier_cone', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_1m45s.frame,"{'pedestrian', 'vehicle'}",False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_2m15s.frame,{'vehicle'},False,11.0,continue,move,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'two_wheeler'}",move,0.0,0.0,
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_2m18s.frame,"{'fence_railing', 'pedestrian'}",False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_2m33s.frame,"{'fence_railing', 'pedestrian'}",False,11.0,continue,caution,False,fence_railing,1.0,"{'fence_railing', 'pedestrian', 'stairs_step'}",continue,1.0,1.0,0.0
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_3m32s.frame,{'vehicle'},False,11.0,continue,stop,False,vehicle,12.0,"{'two_wheeler', 'vehicle'}",stop,1.0,1.0,1.0
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_3m4s.frame,{'vehicle'},False,11.0,continue,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_3m9s.frame,{'vehicle'},False,1.0,continue,stop,False,vehicle,12.0,{'vehicle'},stop,1.0,1.0,1.0
+20240918-youtube_short_7eefca1cff7d59f432df45009a2ec3a9_40s.frame,{'vehicle'},False,12.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_81194552896c9b9c7809407e04db50d1_1min59s.frame,{'vehicle'},False,12.0,move,slow,False,vehicle,1.0,"{'obstacle', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_81194552896c9b9c7809407e04db50d1_38s.frame,{'furniture_stall'},False,12.0,move,stop,False,pedestrian,11.0,"{'pedestrian', 'obstacle'}",stop,0.0,0.0,
+20240918-youtube_short_81ae432f1ab45bdef62b70f622693a67_1min19s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",slow,1.0,1.0,1.0
+20240918-youtube_short_81ae432f1ab45bdef62b70f622693a67_1min39s.frame,{'vehicle'},False,12.0,continue,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_81ae432f1ab45bdef62b70f622693a67_1min45s.frame,{'pedestrian'},False,12.0,move,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_81ae432f1ab45bdef62b70f622693a67_3min1s.frame,"{'stairs_step', 'pedestrian'}",False,11.0,continue,slow,False,stairs_step,12.0,"{'stairs_step', 'obstacle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_81ae432f1ab45bdef62b70f622693a67_4min21s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_81ae432f1ab45bdef62b70f622693a67_58s.frame,{'barrier_cone'},False,12.0,continue,caution,False,barrier_cone,12.0,"{'barrier_cone', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_8266e6e6065e672245bf1d3cf4191528_11s.frame,{'tree_plant'},False,2.0,move,slow,False,barrier_cone,12.0,"{'barrier_cone', 'obstacle', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_8266e6e6065e672245bf1d3cf4191528_1min43s.frame,{'pole'},False,12.0,slow,slow,False,vehicle,1.0,{'vehicle'},slow,0.0,0.0,
+20240918-youtube_short_8266e6e6065e672245bf1d3cf4191528_22s.frame,"{'wall_door', 'pole'}",False,12.0,move,slow,False,wall_door,12.0,"{'wall_door', 'sign'}",slow,1.0,1.0,1.0
+20240918-youtube_short_8266e6e6065e672245bf1d3cf4191528_3min51s.frame,"{'pedestrian', 'pole'}",False,12.0,slow,slow,False,barrier_cone,12.0,"{'barrier_cone', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_8266e6e6065e672245bf1d3cf4191528_4min58s.frame,{'pedestrian'},False,12.0,move,move,False,water,11.0,"{'wall_door', 'water', 'street_object'}",move,0.0,0.0,
+20240918-youtube_short_8266e6e6065e672245bf1d3cf4191528_56s.frame,"{'pedestrian', 'pole'}",False,12.0,slow,caution,False,barrier_cone,12.0,"{'wall_door', 'barrier_cone'}",continue,0.0,0.0,
+20240918-youtube_short_839dd6fc319e78109361c6b307b516a0_2m35s.frame,"{'sign', 'vehicle'}",False,11.0,continue,caution,False,obstacle,11.0,"{'pedestrian', 'obstacle'}",continue,0.0,0.0,
+20240918-youtube_short_839dd6fc319e78109361c6b307b516a0_4m35s.frame,{'narrow_crowded'},False,,slow,slow,False,wall_door,12.0,"{'wall_door', 'pole'}",slow,0.0,0.0,
+20240918-youtube_short_83bc88612ff6a00628af923c9ff461cb_2m38s.frame,{'junction'},False,12.0,continue,caution,False,pedestrian,1.0,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_83bc88612ff6a00628af923c9ff461cb_2m9s.frame,"{'pedestrian', 'narrow_crowded'}",False,1.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_83bc88612ff6a00628af923c9ff461cb_37s.frame,{'pedestrian'},False,1.0,slow,move,False,stairs_step,12.0,"{'stairs_step', 'pedestrian'}",move,0.0,1.0,
+20240918-youtube_short_83d145f94a7268409563865bc64e0786_1m1s.frame,"{'pedestrian', 'furniture_stall', 'pole'}",False,11.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_83d145f94a7268409563865bc64e0786_23s.frame,"{'street_object', 'pole'}",False,12.0,continue,clear,True,,,"{'two_wheeler', 'vehicle', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_83d145f94a7268409563865bc64e0786_28s.frame,"{'two_wheeler', 'vehicle', 'sign', 'pole'}",False,11.0,continue,caution,False,vehicle,1.0,"{'two_wheeler', 'vehicle'}",continue,1.0,1.0,0.0
+20240918-youtube_short_83d145f94a7268409563865bc64e0786_3m17s.frame,{'pedestrian'},False,11.0,continue,caution,False,tree_plant,12.0,"{'tree_plant', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_83d145f94a7268409563865bc64e0786_3m54s.frame,{'pole'},False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'furniture_stall', 'fence_railing'}",slow,0.0,0.0,
+20240918-youtube_short_8473c259d9980c29940a0c993dbf639b_2min23s.frame,"{'curb_edge', 'two_wheeler', 'sign'}",False,12.0,slow,caution,False,two_wheeler,12.0,"{'tree_plant', 'two_wheeler', 'stairs_step'}",continue,1.0,1.0,1.0
+20240918-youtube_short_8473c259d9980c29940a0c993dbf639b_3min10s.frame,{'junction'},False,,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_8473c259d9980c29940a0c993dbf639b_3min38s.frame,set(),True,,continue,clear,True,,,"{'furniture_stall', 'street_object', 'vehicle'}",continue,,,
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_1min17s.frame,"{'barrier_cone', 'tree_plant', 'pedestrian'}",False,11.0,continue,caution,False,tree_plant,12.0,"{'tree_plant', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_1min55s.frame,"{'pedestrian', 'two_wheeler', 'narrow_crowded', 'vehicle'}",False,11.0,slow,slow,False,two_wheeler,11.0,"{'pedestrian', 'two_wheeler'}",slow,1.0,1.0,1.0
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_2min46s.frame,"{'barrier_cone', 'wall_door', 'pedestrian', 'vehicle', 'narrow_crowded', 'junction'}",False,12.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_2min57s.frame,set(),True,,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,,,
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_36s.frame,{'other_object'},False,11.0,slow,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_3min06s.frame,"{'pedestrian', 'narrow_crowded'}",False,11.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_48s.frame,"{'barrier_cone', 'other_object'}",False,11.0,continue,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_4min15s.frame,{'barrier_cone'},False,1.0,continue,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_8523c9ebb71bb9b1cba3e5770644d453_4min22s.frame,"{'street_object', 'vehicle'}",False,11.0,slow,caution,False,vehicle,12.0,"{'pedestrian', 'street_object', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_87db3b36c425d57639e199bd9a1eab2d_1m43s.frame,{'sign'},False,12.0,continue,move,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'sign'}",move,0.0,1.0,
+20240918-youtube_short_87db3b36c425d57639e199bd9a1eab2d_1m5s.frame,{'barrier_cone'},False,11.0,continue,caution,False,pedestrian,12.0,"{'barrier_cone', 'pedestrian', 'two_wheeler'}",continue,0.0,1.0,
+20240918-youtube_short_87db3b36c425d57639e199bd9a1eab2d_27s.frame,set(),False,,continue,slow,False,stairs_step,12.0,{'stairs_step'},slow,,,
+20240918-youtube_short_87db3b36c425d57639e199bd9a1eab2d_2m32s.frame,{'barrier_cone'},False,11.0,continue,caution,False,furniture_stall,12.0,"{'furniture_stall', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_87db3b36c425d57639e199bd9a1eab2d_30s.frame,{'street_object'},False,11.0,continue,caution,False,street_object,11.0,"{'furniture_stall', 'pedestrian', 'street_object'}",continue,1.0,1.0,1.0
+20240918-youtube_short_87db3b36c425d57639e199bd9a1eab2d_3m29s.frame,{'sign'},False,11.0,continue,caution,False,pedestrian,11.0,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_87db3b36c425d57639e199bd9a1eab2d_4m44s.frame,"{'pedestrian', 'narrow_crowded'}",False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_87ddf7bef46f2eb3fa4905375d137a8e_13s.frame,{'pole'},False,2.0,continue,caution,False,pole,1.0,"{'wall_door', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_87ddf7bef46f2eb3fa4905375d137a8e_1m16s.frame,{'pedestrian'},False,2.0,continue,move,False,hole_uneven,12.0,"{'pedestrian', 'hole_uneven'}",move,0.0,1.0,
+20240918-youtube_short_87ddf7bef46f2eb3fa4905375d137a8e_2m59s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_87ddf7bef46f2eb3fa4905375d137a8e_3m38s.frame,{'fence_railing'},False,12.0,move,caution,False,water,12.0,"{'fence_railing', 'water'}",continue,0.0,1.0,
+20240918-youtube_short_87ddf7bef46f2eb3fa4905375d137a8e_4m27s.frame,{'pole'},False,2.0,continue,caution,False,pole,12.0,{'pole'},continue,1.0,1.0,0.0
+20240918-youtube_short_87ddf7bef46f2eb3fa4905375d137a8e_4m46s.frame,{'tree_plant'},False,11.0,continue,slow,False,obstacle,12.0,"{'wall_door', 'tree_plant', 'obstacle'}",slow,0.0,1.0,
+20240918-youtube_short_896dfe2653e5ec5514d2640e662bc211_3m47s.frame,{'narrow_crowded'},False,12.0,continue,slow,False,wall_door,12.0,{'wall_door'},slow,0.0,0.0,
+20240918-youtube_short_8997a280b1a92b2ae5701496ada9ef7a_1min05s.frame,"{'pedestrian', 'street_object'}",False,1.0,continue,caution,False,street_object,12.0,"{'wall_door', 'pedestrian', 'street_object'}",continue,1.0,1.0,1.0
+20240918-youtube_short_8997a280b1a92b2ae5701496ada9ef7a_1min18s.frame,{'pedestrian'},False,12.0,stop,caution,False,wall_door,12.0,"{'wall_door', 'tree_plant', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_8997a280b1a92b2ae5701496ada9ef7a_1min36s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_8997a280b1a92b2ae5701496ada9ef7a_2min14s.frame,{'wall_door'},False,12.0,move,caution,False,street_object,12.0,"{'wall_door', 'two_wheeler', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_8997a280b1a92b2ae5701496ada9ef7a_3min40s.frame,{'pedestrian'},False,1.0,continue,clear,True,,,"{'pedestrian', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_8997a280b1a92b2ae5701496ada9ef7a_4min14s.frame,"{'fence_railing', 'off_route'}",False,,continue,caution,False,wall_door,11.0,"{'wall_door', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_8a93c7ccb9cc7e2096ae23b5fa902a11_1min30s.frame,{'wall_door'},False,12.0,slow,caution,False,pedestrian,11.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_8a93c7ccb9cc7e2096ae23b5fa902a11_2min14s.frame,"{'furniture_stall', 'sign'}",False,12.0,continue,caution,False,tree_plant,1.0,"{'tree_plant', 'pedestrian', 'furniture_stall'}",continue,0.0,1.0,
+20240918-youtube_short_8a948f34e08caf8d442db86b90598719_3min45s.frame,"{'wall_door', 'pedestrian'}",False,12.0,slow,slow,False,stairs_step,12.0,"{'stairs_step', 'street_object'}",slow,0.0,0.0,
+20240918-youtube_short_8a948f34e08caf8d442db86b90598719_4min43s.frame,"{'pedestrian', 'junction'}",False,,slow,slow,False,obstacle,11.0,"{'pedestrian', 'obstacle'}",slow,0.0,1.0,
+20240918-youtube_short_8cb3da04dfb6c867f2186fd4fef8045b_1m13s.frame,{'narrow_crowded'},False,,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_8cb3da04dfb6c867f2186fd4fef8045b_2m3s.frame,{'other_object'},False,1.0,continue,move,False,wall_door,12.0,"{'wall_door', 'furniture_stall', 'pedestrian'}",move,0.0,0.0,
+20240918-youtube_short_8cb3da04dfb6c867f2186fd4fef8045b_2m42s.frame,{'pedestrian'},False,11.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_8cb3da04dfb6c867f2186fd4fef8045b_48s.frame,{'narrow_crowded'},False,,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_8cb3da04dfb6c867f2186fd4fef8045b_58s.frame,{'pedestrian'},False,11.0,continue,slow,False,stairs_step,12.0,"{'stairs_step', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_8ec3c7ce7dbb7410ffe5c02608f70a88_17s.frame,{'pole'},False,12.0,move,move,False,wall_door,12.0,{'wall_door'},move,0.0,0.0,
+20240918-youtube_short_8ec3c7ce7dbb7410ffe5c02608f70a88_22s.frame,{'tree_plant'},False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'tree_plant'}",slow,0.0,1.0,
+20240918-youtube_short_8ec3c7ce7dbb7410ffe5c02608f70a88_2min26s.frame,{'two_wheeler'},False,12.0,move,caution,False,two_wheeler,12.0,{'two_wheeler'},continue,1.0,1.0,1.0
+20240918-youtube_short_8ec3c7ce7dbb7410ffe5c02608f70a88_2min6s.frame,"{'other_object', 'pedestrian', 'narrow_crowded'}",False,11.0,slow,slow,False,vehicle,1.0,"{'pedestrian', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_8ec3c7ce7dbb7410ffe5c02608f70a88_4min19s.frame,{'vehicle'},False,12.0,slow,slow,False,vehicle,12.0,"{'wall_door', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_8ec3c7ce7dbb7410ffe5c02608f70a88_4min33s.frame,{'two_wheeler'},False,2.0,continue,caution,False,vehicle,12.0,"{'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_90369df4d37aa12c21a1622f77d260eb_1m20s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,11.0,"{'wall_door', 'pedestrian', 'obstacle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_90369df4d37aa12c21a1622f77d260eb_1m59s.frame,{'pedestrian'},False,12.0,continue,move,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",move,0.0,1.0,
+20240918-youtube_short_90369df4d37aa12c21a1622f77d260eb_3m40s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_90369df4d37aa12c21a1622f77d260eb_3m6s.frame,{'barrier_cone'},False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_90369df4d37aa12c21a1622f77d260eb_4m11s.frame,{'barrier_cone'},False,1.0,continue,clear,True,,,"{'pedestrian', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_90369df4d37aa12c21a1622f77d260eb_52s.frame,{'pedestrian'},False,12.0,continue,slow,False,stairs_step,11.0,"{'stairs_step', 'pedestrian', 'obstacle'}",slow,0.0,1.0,
+20240918-youtube_short_91b7d6a2a00bfc0a7745ce5b86ace8eb_1m7s.frame,{'pedestrian'},False,11.0,stop,caution,False,two_wheeler,12.0,{'two_wheeler'},continue,0.0,0.0,
+20240918-youtube_short_91b7d6a2a00bfc0a7745ce5b86ace8eb_3m35s.frame,{'vehicle'},False,11.0,stop,clear,True,,,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_922b938e492d56b560de932a936df029_54s.frame,{'pole'},False,12.0,move,caution,False,vehicle,11.0,"{'pedestrian', 'vehicle', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_92676906749b23b26774e2bde072cb98_12s.frame,set(),True,,continue,clear,True,,,set(),continue,,,
+20240918-youtube_short_92676906749b23b26774e2bde072cb98_2min05s.frame,"{'curb_edge', 'fence_railing', 'off_route'}",False,,continue,caution,False,fence_railing,12.0,{'fence_railing'},continue,1.0,1.0,
+20240918-youtube_short_92676906749b23b26774e2bde072cb98_2min35s.frame,{'pedestrian'},False,11.0,continue,clear,True,,,"{'pedestrian', 'street_object', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_92676906749b23b26774e2bde072cb98_3min27s.frame,"{'pedestrian', 'sign'}",False,11.0,continue,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler'}",continue,0.0,1.0,
+20240918-youtube_short_92676906749b23b26774e2bde072cb98_4min20s.frame,"{'off_route', 'pole'}",False,12.0,move,move,False,water,12.0,{'water'},move,0.0,0.0,
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_12s.frame,{'water'},False,12.0,move,slow,False,water,12.0,{'water'},slow,1.0,1.0,1.0
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_1min24s.frame,"{'fence_railing', 'pedestrian'}",False,12.0,move,caution,False,pedestrian,12.0,"{'fence_railing', 'pedestrian', 'street_object'}",continue,1.0,1.0,1.0
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_1min44s.frame,"{'tree_plant', 'off_route'}",False,12.0,move,move,False,water,12.0,"{'water', 'obstacle'}",move,0.0,0.0,
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_22s.frame,{'off_route'},False,,move,caution,False,wall_door,12.0,{'wall_door'},continue,0.0,0.0,
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_2min52s.frame,{'pedestrian'},False,11.0,slow,clear,True,,,"{'furniture_stall', 'pedestrian', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_37s.frame,{'off_route'},False,,move,caution,False,wall_door,12.0,{'wall_door'},continue,0.0,0.0,
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_3min58s.frame,"{'fence_railing', 'off_route'}",False,,move,slow,False,fence_railing,12.0,"{'wall_door', 'fence_railing'}",slow,1.0,1.0,
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_4min03s.frame,{'off_route'},False,,move,caution,False,water,12.0,"{'tree_plant', 'water'}",continue,0.0,0.0,
+20240918-youtube_short_93d2c485fdb77d26f4e13e339c2effa4_4min08s.frame,{'off_route'},False,,move,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_94771706d6adb18695eaf6a66ade9fa2_3m54s.frame,{'pedestrian'},False,11.0,continue,move,False,fence_railing,12.0,"{'wall_door', 'fence_railing'}",move,0.0,0.0,
+20240918-youtube_short_94771706d6adb18695eaf6a66ade9fa2_5s.frame,"{'pedestrian', 'two_wheeler'}",False,11.0,continue,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_94773cc21cce7b731814c43df7441d6b_1m10s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'stairs_step'}",continue,1.0,1.0,1.0
+20240918-youtube_short_94773cc21cce7b731814c43df7441d6b_2m10s.frame,{'narrow_crowded'},False,,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_94773cc21cce7b731814c43df7441d6b_2m51s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_94773cc21cce7b731814c43df7441d6b_2m59s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_94773cc21cce7b731814c43df7441d6b_3m23s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",slow,1.0,1.0,1.0
+20240918-youtube_short_94773cc21cce7b731814c43df7441d6b_3m7s.frame,{'pedestrian'},False,12.0,stop,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_94773cc21cce7b731814c43df7441d6b_4m25s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_98fc8c9605ab091ef38fbb90aec76194_4m45s.frame,"{'off_route', 'vehicle'}",False,12.0,move,slow,False,vehicle,1.0,"{'barrier_cone', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_996cb7206a28968fd48beb0d237424b1_1min28s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian', 'street_object'}",continue,1.0,1.0,1.0
+20240918-youtube_short_996cb7206a28968fd48beb0d237424b1_1min53s.frame,{'pedestrian'},False,12.0,continue,clear,True,,,{'pedestrian'},continue,0.0,1.0,
+20240918-youtube_short_996cb7206a28968fd48beb0d237424b1_32s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,11.0,"{'furniture_stall', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_996cb7206a28968fd48beb0d237424b1_3min56s.frame,{'pedestrian'},False,11.0,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_99eb18bd22530f3b47620f85585b5c15_1m31s.frame,"{'pedestrian', 'pole'}",False,11.0,continue,slow,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler', 'obstacle'}",slow,0.0,1.0,
+20240918-youtube_short_99eb18bd22530f3b47620f85585b5c15_1m48s.frame,{'furniture_stall'},False,12.0,continue,slow,False,furniture_stall,12.0,{'furniture_stall'},slow,1.0,1.0,1.0
+20240918-youtube_short_99eb18bd22530f3b47620f85585b5c15_3m23s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'tree_plant', 'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_99eb18bd22530f3b47620f85585b5c15_3m27s.frame,{'other_object'},False,12.0,continue,slow,False,obstacle,11.0,"{'pedestrian', 'obstacle', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_99eb18bd22530f3b47620f85585b5c15_4m10s.frame,"{'furniture_stall', 'pedestrian', 'narrow_crowded'}",False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_99eb18bd22530f3b47620f85585b5c15_4m38s.frame,{'furniture_stall'},False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",slow,0.0,1.0,
+20240918-youtube_short_9aae5ea4fb5e57e09c9ea264af0ce0fc_17s.frame,"{'tree_plant', 'pedestrian'}",False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_9aae5ea4fb5e57e09c9ea264af0ce0fc_2m2s.frame,{'pedestrian'},False,11.0,continue,caution,False,wall_door,1.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_9aae5ea4fb5e57e09c9ea264af0ce0fc_2m35s.frame,"{'pedestrian', 'two_wheeler'}",False,1.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler'}",slow,1.0,1.0,1.0
+20240918-youtube_short_9aae5ea4fb5e57e09c9ea264af0ce0fc_3m15s.frame,"{'narrow_crowded', 'vehicle'}",False,12.0,slow,slow,False,vehicle,1.0,{'vehicle'},slow,1.0,1.0,1.0
+20240918-youtube_short_9aae5ea4fb5e57e09c9ea264af0ce0fc_46s.frame,{'furniture_stall'},False,12.0,continue,slow,False,furniture_stall,1.0,{'furniture_stall'},slow,1.0,1.0,1.0
+20240918-youtube_short_9aae5ea4fb5e57e09c9ea264af0ce0fc_4m45s.frame,"{'tree_plant', 'sign'}",False,11.0,continue,slow,False,fence_railing,12.0,"{'fence_railing', 'pedestrian', 'pole'}",slow,0.0,0.0,
+20240918-youtube_short_9aae5ea4fb5e57e09c9ea264af0ce0fc_4m9s.frame,{'pedestrian'},False,11.0,continue,caution,False,barrier_cone,12.0,"{'wall_door', 'barrier_cone', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_9aae5ea4fb5e57e09c9ea264af0ce0fc_7s.frame,{'vehicle'},False,12.0,stop,slow,False,vehicle,12.0,"{'furniture_stall', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_9dd5b934cb84d8607cb68164d4985975_1min13s.frame,"{'wall_door', 'fence_railing'}",False,12.0,continue,slow,False,vehicle,12.0,"{'wall_door', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_9dd5b934cb84d8607cb68164d4985975_1min1s.frame,{'pedestrian'},False,12.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'hole_uneven'}",continue,0.0,0.0,
+20240918-youtube_short_9dd5b934cb84d8607cb68164d4985975_1min5s.frame,"{'wall_door', 'fence_railing'}",False,12.0,continue,slow,False,vehicle,12.0,"{'wall_door', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_9dd5b934cb84d8607cb68164d4985975_23s.frame,{'stairs_step'},False,11.0,continue,clear,True,,,"{'pedestrian', 'vehicle', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_9dd5b934cb84d8607cb68164d4985975_2min32s.frame,{'tree_plant'},False,2.0,continue,caution,False,tree_plant,11.0,{'tree_plant'},continue,1.0,1.0,0.0
+20240918-youtube_short_9dd5b934cb84d8607cb68164d4985975_2min36s.frame,{'tree_plant'},False,12.0,continue,caution,False,tree_plant,12.0,"{'wall_door', 'tree_plant'}",continue,1.0,1.0,1.0
+20240918-youtube_short_9dd5b934cb84d8607cb68164d4985975_3min38s.frame,{'fence_railing'},False,12.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_9f27040639adfa7085db0619736acfbd_1min35s.frame,"{'pedestrian', 'vehicle'}",False,11.0,continue,slow,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler', 'street_object'}",slow,0.0,1.0,
+20240918-youtube_short_9f27040639adfa7085db0619736acfbd_2min07s.frame,{'barrier_cone'},False,11.0,continue,caution,False,barrier_cone,12.0,"{'barrier_cone', 'pedestrian', 'sign'}",continue,1.0,1.0,1.0
+20240918-youtube_short_9f27040639adfa7085db0619736acfbd_41s.frame,"{'pedestrian', 'vehicle'}",False,11.0,continue,slow,False,vehicle,1.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",slow,1.0,1.0,0.0
+20240918-youtube_short_9f27040639adfa7085db0619736acfbd_57s.frame,"{'pedestrian', 'narrow_crowded'}",False,12.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_a05bdd8de0648caa248f14cb47fe4c5b_1m34s.frame,{'wall_door'},False,1.0,continue,caution,False,water,1.0,"{'pedestrian', 'water'}",continue,0.0,0.0,
+20240918-youtube_short_a05bdd8de0648caa248f14cb47fe4c5b_3m42s.frame,{'pole'},False,11.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,0.0,0.0,
+20240918-youtube_short_a05bdd8de0648caa248f14cb47fe4c5b_3m50s.frame,{'sign'},False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'tree_plant', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_a05bdd8de0648caa248f14cb47fe4c5b_4m17s.frame,{'two_wheeler'},False,1.0,continue,caution,False,two_wheeler,1.0,"{'barrier_cone', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_a05bdd8de0648caa248f14cb47fe4c5b_4m38s.frame,set(),True,,continue,clear,True,,,{'tree_plant'},continue,,,
+20240918-youtube_short_a05bdd8de0648caa248f14cb47fe4c5b_4m46s.frame,"{'other_object', 'pedestrian'}",False,11.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_a16d07eb5caa0e55618fab8d1b6daa87_2min16s.frame,{'vehicle'},False,12.0,move,caution,False,vehicle,12.0,"{'fence_railing', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_a16d07eb5caa0e55618fab8d1b6daa87_3min40s.frame,{'wall_door'},False,12.0,slow,slow,False,wall_door,12.0,"{'wall_door', 'fence_railing', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_a16d07eb5caa0e55618fab8d1b6daa87_3min51s.frame,{'barrier_cone'},False,12.0,move,move,False,obstacle,12.0,"{'wall_door', 'furniture_stall', 'obstacle'}",move,0.0,0.0,
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_19s.frame,{'barrier_cone'},False,1.0,continue,caution,False,tree_plant,12.0,"{'wall_door', 'tree_plant', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_1min16s.frame,"{'fence_railing', 'off_route'}",False,12.0,continue,clear,True,,,{'vehicle'},continue,0.0,0.0,
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_1min22s.frame,"{'barrier_cone', 'junction'}",False,11.0,continue,slow,False,fence_railing,12.0,"{'tree_plant', 'fence_railing'}",slow,0.0,0.0,
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_1min36s.frame,{'barrier_cone'},False,1.0,slow,caution,False,obstacle,1.0,"{'pedestrian', 'obstacle', 'animal'}",continue,0.0,0.0,
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_1min56s.frame,"{'tree_plant', 'other_object'}",False,1.0,slow,caution,False,pedestrian,12.0,"{'tree_plant', 'pedestrian', 'furniture_stall'}",continue,0.0,1.0,
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_3min17s.frame,{'barrier_cone'},False,11.0,continue,caution,False,two_wheeler,12.0,"{'tree_plant', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_3min42s.frame,{'tree_plant'},False,12.0,continue,slow,False,tree_plant,12.0,"{'wall_door', 'tree_plant'}",slow,1.0,1.0,1.0
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_4min29s.frame,"{'barrier_cone', 'pedestrian'}",False,11.0,slow,caution,False,vehicle,1.0,"{'two_wheeler', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_a2790d9962f7e72ba445e395d9b1dc19_4min48s.frame,{'barrier_cone'},False,1.0,continue,slow,False,vehicle,1.0,{'vehicle'},slow,0.0,0.0,
+20240918-youtube_short_a473f3476a9434ccb848c80919e37baf_24s.frame,{'furniture_stall'},False,,move,slow,False,furniture_stall,12.0,{'furniture_stall'},slow,1.0,1.0,
+20240918-youtube_short_a473f3476a9434ccb848c80919e37baf_51s.frame,{'vehicle'},False,12.0,stop,caution,False,vehicle,12.0,"{'pedestrian', 'street_object', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_a6c942125611d95bca7dbb1c518a8716_1min56s.frame,"{'pedestrian', 'vehicle'}",False,1.0,continue,caution,False,pedestrian,12.0,"{'barrier_cone', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_a6c942125611d95bca7dbb1c518a8716_1min6s.frame,{'vehicle'},False,10.0,continue,slow,False,vehicle,11.0,"{'barrier_cone', 'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_a6c942125611d95bca7dbb1c518a8716_2min24s.frame,{'junction'},False,12.0,continue,slow,False,two_wheeler,11.0,"{'two_wheeler', 'sign'}",slow,0.0,0.0,
+20240918-youtube_short_a6c942125611d95bca7dbb1c518a8716_3min14s.frame,{'vehicle'},False,12.0,continue,caution,False,vehicle,12.0,"{'barrier_cone', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_a6c942125611d95bca7dbb1c518a8716_3min2s.frame,{'pedestrian'},False,10.0,continue,slow,False,hole_uneven,11.0,"{'wall_door', 'two_wheeler', 'hole_uneven'}",slow,0.0,0.0,
+20240918-youtube_short_a6c942125611d95bca7dbb1c518a8716_3min34s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,11.0,"{'tree_plant', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_a6c942125611d95bca7dbb1c518a8716_4min7s.frame,{'pedestrian'},False,11.0,continue,slow,False,furniture_stall,12.0,"{'furniture_stall', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_a6c942125611d95bca7dbb1c518a8716_9s.frame,{'tree_plant'},False,12.0,continue,slow,False,water,11.0,"{'furniture_stall', 'water', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_2m16s.frame,{'vehicle'},False,1.0,continue,clear,True,,,"{'street_object', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_2m27s.frame,{'pole'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pole'}",slow,0.0,1.0,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_2m46s.frame,{'vehicle'},False,1.0,continue,caution,False,two_wheeler,1.0,"{'two_wheeler', 'vehicle', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_31s.frame,{'tree_plant'},False,11.0,continue,caution,False,vehicle,1.0,"{'tree_plant', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_3m42s.frame,{'pedestrian'},False,11.0,continue,clear,True,,,"{'pedestrian', 'two_wheeler'}",continue,0.0,1.0,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_3m9s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,11.0,"{'pedestrian', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_4m15s.frame,{'junction'},False,12.0,continue,slow,False,vehicle,11.0,"{'furniture_stall', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_4m33s.frame,{'pedestrian'},False,1.0,continue,clear,True,,,"{'pedestrian', 'two_wheeler'}",continue,0.0,1.0,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_4m43s.frame,set(),True,,continue,clear,True,,,"{'tree_plant', 'pedestrian', 'two_wheeler'}",continue,,,
+20240918-youtube_short_aba610d1129521b4b876974f25a03063_56s.frame,"{'two_wheeler', 'off_route'}",False,12.0,continue,clear,True,,,{'two_wheeler'},continue,0.0,1.0,
+20240918-youtube_short_af4db50cb1cbddf708fa2cdd2e5c1053_2m57s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_af4db50cb1cbddf708fa2cdd2e5c1053_3m22s.frame,"{'wall_door', 'off_route'}",False,12.0,move,move,False,wall_door,12.0,"{'wall_door', 'obstacle'}",move,1.0,1.0,1.0
+20240918-youtube_short_af4db50cb1cbddf708fa2cdd2e5c1053_3m32s.frame,{'pedestrian'},False,11.0,continue,stop,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",stop,0.0,1.0,
+20240918-youtube_short_af4db50cb1cbddf708fa2cdd2e5c1053_41s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_af4db50cb1cbddf708fa2cdd2e5c1053_4m55s.frame,{'pedestrian'},False,11.0,continue,slow,False,hole_uneven,12.0,"{'barrier_cone', 'pedestrian', 'hole_uneven'}",slow,0.0,1.0,
+20240918-youtube_short_afb1ef4d1d53bb21d4d319f9dff6ca11_18s.frame,{'narrow_crowded'},False,,continue,caution,False,tree_plant,12.0,"{'tree_plant', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_afb1ef4d1d53bb21d4d319f9dff6ca11_3m19s.frame,"{'tree_plant', 'narrow_crowded', 'vehicle'}",False,11.0,continue,slow,False,vehicle,11.0,{'vehicle'},slow,1.0,1.0,1.0
+20240918-youtube_short_afb1ef4d1d53bb21d4d319f9dff6ca11_3m48s.frame,set(),True,,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler'}",continue,,,
+20240918-youtube_short_afb1ef4d1d53bb21d4d319f9dff6ca11_4m42s.frame,{'other_object'},False,11.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_b1ea93b57b243eabbf182ff06eb26a77_56s.frame,{'tree_plant'},False,1.0,continue,clear,True,,,"{'tree_plant', 'furniture_stall'}",continue,0.0,1.0,
+20240918-youtube_short_b2393a2b8d5fe9bc63504236205ceb98_13s.frame,{'junction'},False,,continue,clear,True,,,"{'furniture_stall', 'pedestrian', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_b2393a2b8d5fe9bc63504236205ceb98_1min07s.frame,{'junction'},False,12.0,move,move,False,wall_door,12.0,"{'wall_door', 'pole'}",move,0.0,0.0,
+20240918-youtube_short_b2393a2b8d5fe9bc63504236205ceb98_1min28s.frame,"{'wall_door', 'off_route'}",False,,move,move,False,wall_door,12.0,"{'wall_door', 'tree_plant'}",move,1.0,1.0,
+20240918-youtube_short_b2393a2b8d5fe9bc63504236205ceb98_1min55s.frame,set(),True,,continue,caution,False,street_object,1.0,"{'wall_door', 'street_object'}",continue,,,
+20240918-youtube_short_b2393a2b8d5fe9bc63504236205ceb98_2min07s.frame,"{'wall_door', 'off_route', 'junction'}",False,,move,move,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'furniture_stall'}",move,1.0,1.0,
+20240918-youtube_short_b2393a2b8d5fe9bc63504236205ceb98_4min24s.frame,"{'wall_door', 'off_route'}",False,,move,caution,False,wall_door,12.0,{'wall_door'},continue,1.0,1.0,
+20240918-youtube_short_b47bfc6eff24bcacbc44e6f85504989b_1m14s.frame,{'narrow_crowded'},False,,continue,caution,False,two_wheeler,1.0,"{'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_b47bfc6eff24bcacbc44e6f85504989b_1m55s.frame,{'pedestrian'},False,2.0,continue,clear,True,,,"{'pedestrian', 'two_wheeler'}",continue,0.0,1.0,
+20240918-youtube_short_b47bfc6eff24bcacbc44e6f85504989b_1m7s.frame,{'pedestrian'},False,2.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler'}",continue,1.0,1.0,0.0
+20240918-youtube_short_b47bfc6eff24bcacbc44e6f85504989b_2m5s.frame,{'pedestrian'},False,2.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_b47bfc6eff24bcacbc44e6f85504989b_34s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_b573e7635ba1d25fda4a313d5a20e8a0_11s.frame,"{'barrier_cone', 'curb_edge', 'pedestrian', 'vehicle'}",False,,move,slow,False,two_wheeler,12.0,{'two_wheeler'},slow,0.0,0.0,
+20240918-youtube_short_b573e7635ba1d25fda4a313d5a20e8a0_1min04s.frame,"{'wall_door', 'pedestrian', 'sign'}",False,10.0,continue,slow,False,obstacle,12.0,"{'obstacle', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_b573e7635ba1d25fda4a313d5a20e8a0_53s.frame,"{'tree_plant', 'narrow_crowded', 'vehicle'}",False,11.0,slow,caution,False,vehicle,12.0,"{'barrier_cone', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_b57f7b51718364b1bbcf06eb4b222453_1min10s.frame,{'barrier_cone'},False,1.0,continue,caution,False,tree_plant,1.0,"{'wall_door', 'tree_plant', 'obstacle'}",continue,0.0,0.0,
+20240918-youtube_short_b57f7b51718364b1bbcf06eb4b222453_1min59s.frame,{'barrier_cone'},False,1.0,slow,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_b57f7b51718364b1bbcf06eb4b222453_2min01s.frame,"{'vehicle', 'junction'}",False,11.0,continue,caution,False,hole_uneven,11.0,"{'wall_door', 'hole_uneven', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_b57f7b51718364b1bbcf06eb4b222453_4min59s.frame,{'barrier_cone'},False,1.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_b771809ecb4d96944f87acb619f94ba5_59s.frame,{'sign'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'furniture_stall'}",slow,0.0,0.0,
+20240918-youtube_short_b7b94430d3f0799c6eab67b7353bd16f_1m31s.frame,{'stairs_step'},False,1.0,continue,caution,False,two_wheeler,12.0,"{'wall_door', 'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918-youtube_short_b7b94430d3f0799c6eab67b7353bd16f_35s.frame,{'pedestrian'},False,12.0,continue,stop,False,stairs_step,12.0,{'stairs_step'},stop,0.0,0.0,
+20240918-youtube_short_b7b94430d3f0799c6eab67b7353bd16f_3m15s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_b7b94430d3f0799c6eab67b7353bd16f_3m6s.frame,"{'curb_edge', 'pedestrian'}",False,11.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_b7b94430d3f0799c6eab67b7353bd16f_4m23s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_b8d4e154f242b2d1a219191594daf36f_1m33s.frame,{'pole'},False,11.0,continue,move,False,furniture_stall,12.0,{'furniture_stall'},move,0.0,0.0,
+20240918-youtube_short_b8d4e154f242b2d1a219191594daf36f_2m58s.frame,{'narrow_crowded'},False,,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'tree_plant'}",continue,0.0,0.0,
+20240918-youtube_short_ba5c3e7f9b0089e6a0f384ea1042df4e_29s.frame,{'fence_railing'},False,12.0,continue,move,False,wall_door,12.0,"{'wall_door', 'fence_railing', 'tree_plant'}",move,0.0,1.0,
+20240918-youtube_short_ba5c3e7f9b0089e6a0f384ea1042df4e_2min22s.frame,{'pedestrian'},False,12.0,slow,move,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",move,0.0,1.0,
+20240918-youtube_short_ba5c3e7f9b0089e6a0f384ea1042df4e_2min4s.frame,{'fence_railing'},False,12.0,move,slow,False,wall_door,12.0,"{'wall_door', 'pole'}",slow,0.0,0.0,
+20240918-youtube_short_ba5c3e7f9b0089e6a0f384ea1042df4e_3min56s.frame,{'wall_door'},False,12.0,stop,slow,False,wall_door,12.0,{'wall_door'},slow,1.0,1.0,1.0
+20240918-youtube_short_bc03c8e175c20fd7de3ed62297d1d3e4_1min27s.frame,{'pedestrian'},False,11.0,continue,caution,False,furniture_stall,11.0,{'furniture_stall'},continue,0.0,0.0,
+20240918-youtube_short_bc03c8e175c20fd7de3ed62297d1d3e4_26s.frame,"{'pedestrian', 'junction'}",False,,slow,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'sign'}",slow,0.0,1.0,
+20240918-youtube_short_bc03c8e175c20fd7de3ed62297d1d3e4_2min17s.frame,{'pedestrian'},False,10.0,continue,caution,False,pedestrian,11.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_bc03c8e175c20fd7de3ed62297d1d3e4_49s.frame,"{'stairs_step', 'pedestrian', 'narrow_crowded'}",False,11.0,slow,stop,False,stairs_step,12.0,{'stairs_step'},stop,1.0,1.0,1.0
+20240918-youtube_short_bc03c8e175c20fd7de3ed62297d1d3e4_4min12s.frame,{'pedestrian'},False,11.0,stop,caution,False,pedestrian,1.0,"{'pedestrian', 'water'}",continue,1.0,1.0,0.0
+20240918-youtube_short_bc03c8e175c20fd7de3ed62297d1d3e4_4min30s.frame,"{'wall_door', 'pedestrian'}",False,11.0,move,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918-youtube_short_bc03c8e175c20fd7de3ed62297d1d3e4_57s.frame,"{'fence_railing', 'off_route'}",False,,move,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,0.0,
+20240918-youtube_short_be3d6cf1ea3c01c7b9285574f31deee5_1m32s.frame,{'two_wheeler'},False,1.0,continue,caution,False,two_wheeler,1.0,{'two_wheeler'},continue,1.0,1.0,1.0
+20240918-youtube_short_be3d6cf1ea3c01c7b9285574f31deee5_1m40s.frame,"{'pedestrian', 'sign'}",False,11.0,continue,caution,False,pedestrian,11.0,"{'wall_door', 'pedestrian', 'sign'}",continue,1.0,1.0,1.0
+20240918-youtube_short_be3d6cf1ea3c01c7b9285574f31deee5_3m20s.frame,{'pedestrian'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'two_wheeler'}",slow,0.0,0.0,
+20240918-youtube_short_be3d6cf1ea3c01c7b9285574f31deee5_4m29s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",slow,1.0,1.0,1.0
+20240918-youtube_short_be3d6cf1ea3c01c7b9285574f31deee5_4m47s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918-youtube_short_bfb030152b7aa3aa311b7184287096ff_17s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,1.0,"{'pedestrian', 'furniture_stall'}",continue,1.0,1.0,0.0
+20240918-youtube_short_bfb030152b7aa3aa311b7184287096ff_1m3s.frame,{'wall_door'},False,12.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_bfb030152b7aa3aa311b7184287096ff_2m37s.frame,"{'fence_railing', 'curb_edge', 'pedestrian'}",False,12.0,continue,move,False,wall_door,12.0,"{'wall_door', 'fence_railing', 'street_object'}",move,0.0,1.0,
+20240918-youtube_short_bfb030152b7aa3aa311b7184287096ff_3m21s.frame,"{'furniture_stall', 'pedestrian'}",False,11.0,continue,clear,True,,,{'pedestrian'},continue,0.0,1.0,
+20240918-youtube_short_bfb030152b7aa3aa311b7184287096ff_4m47s.frame,"{'furniture_stall', 'street_object'}",False,10.0,continue,caution,False,street_object,12.0,"{'furniture_stall', 'pedestrian', 'street_object'}",continue,1.0,1.0,0.0
+20240918-youtube_short_c17594734370ec0bedb830b4ec29fc40_1min56s.frame,"{'tree_plant', 'off_route'}",False,12.0,continue,stop,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",stop,0.0,0.0,
+20240918-youtube_short_c17594734370ec0bedb830b4ec29fc40_2min06s.frame,"{'furniture_stall', 'off_route', 'narrow_crowded', 'sign'}",False,11.0,continue,slow,False,fence_railing,12.0,"{'fence_railing', 'furniture_stall'}",slow,0.0,1.0,
+20240918-youtube_short_c17594734370ec0bedb830b4ec29fc40_2min2s.frame,"{'barrier_cone', 'off_route'}",False,1.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",continue,0.0,0.0,
+20240918-youtube_short_c17594734370ec0bedb830b4ec29fc40_2min39s.frame,"{'furniture_stall', 'pedestrian', 'narrow_crowded'}",False,1.0,continue,slow,False,stairs_step,12.0,"{'stairs_step', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_c17594734370ec0bedb830b4ec29fc40_33s.frame,"{'furniture_stall', 'pedestrian', 'narrow_crowded'}",False,11.0,slow,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_c17594734370ec0bedb830b4ec29fc40_3min03s.frame,"{'wall_door', 'junction'}",False,12.0,slow,clear,True,,,"{'pedestrian', 'vehicle'}",continue,0.0,0.0,
+20240918-youtube_short_c17594734370ec0bedb830b4ec29fc40_3min37s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,1.0,"{'two_wheeler', 'vehicle'}",slow,1.0,1.0,0.0
+20240918-youtube_short_c21399f20fd83301fe16869826b72ab0_1m20s.frame,"{'other_object', 'street_object'}",False,12.0,continue,move,False,pole,12.0,"{'pedestrian', 'pole'}",move,0.0,0.0,
+20240918-youtube_short_c21399f20fd83301fe16869826b72ab0_39s.frame,{'sign'},False,11.0,continue,caution,False,sign,12.0,"{'pedestrian', 'sign'}",continue,1.0,1.0,1.0
+20240918-youtube_short_c21399f20fd83301fe16869826b72ab0_3m31s.frame,"{'pedestrian', 'pole'}",False,11.0,continue,move,False,vehicle,11.0,"{'wall_door', 'pedestrian', 'vehicle'}",move,0.0,1.0,
+20240918-youtube_short_c21399f20fd83301fe16869826b72ab0_3m3s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,11.0,"{'two_wheeler', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_c21399f20fd83301fe16869826b72ab0_49s.frame,{'pole'},False,11.0,continue,caution,False,vehicle,12.0,"{'vehicle', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_c21399f20fd83301fe16869826b72ab0_4m23s.frame,{'narrow_crowded'},False,,slow,stop,False,wall_door,12.0,"{'wall_door', 'furniture_stall', 'pedestrian'}",stop,0.0,0.0,
+20240918-youtube_short_c21399f20fd83301fe16869826b72ab0_58s.frame,"{'barrier_cone', 'tree_plant', 'pedestrian', 'street_object'}",False,11.0,continue,slow,False,vehicle,12.0,"{'barrier_cone', 'obstacle', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_c40d7a82f56c9f3bc43038f2074393b2_1m11s.frame,"{'tree_plant', 'pedestrian'}",False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_c40d7a82f56c9f3bc43038f2074393b2_1m48s.frame,"{'tree_plant', 'street_object', 'pole'}",False,11.0,continue,clear,True,,,{'vehicle'},continue,0.0,0.0,
+20240918-youtube_short_c40d7a82f56c9f3bc43038f2074393b2_2m4s.frame,{'vehicle'},False,12.0,continue,stop,False,vehicle,12.0,{'vehicle'},stop,1.0,1.0,1.0
+20240918-youtube_short_c40d7a82f56c9f3bc43038f2074393b2_44s.frame,{'tree_plant'},False,1.0,continue,caution,False,furniture_stall,11.0,"{'furniture_stall', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_c40d7a82f56c9f3bc43038f2074393b2_4m13s.frame,"{'tree_plant', 'pedestrian', 'two_wheeler'}",False,11.0,continue,caution,False,pedestrian,12.0,"{'barrier_cone', 'pedestrian', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_c40d7a82f56c9f3bc43038f2074393b2_4m36s.frame,"{'vehicle', 'pole'}",False,1.0,continue,clear,True,,,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_c40d7a82f56c9f3bc43038f2074393b2_4m48s.frame,"{'street_object', 'pole'}",False,1.0,continue,caution,False,fence_railing,1.0,"{'fence_railing', 'street_object', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_c40d7a82f56c9f3bc43038f2074393b2_51s.frame,"{'tree_plant', 'pedestrian', 'pole'}",False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_cae03bdf74b8e64b936193787fdd79c6_15s.frame,{'barrier_cone'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'hole_uneven', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_cae03bdf74b8e64b936193787fdd79c6_1min17s.frame,"{'pedestrian', 'narrow_crowded', 'off_route'}",False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'sign'}",slow,0.0,1.0,
+20240918-youtube_short_cae03bdf74b8e64b936193787fdd79c6_1min44s.frame,{'street_object'},False,1.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'tree_plant'}",slow,0.0,0.0,
+20240918-youtube_short_cae03bdf74b8e64b936193787fdd79c6_2min10s.frame,{'barrier_cone'},False,12.0,continue,move,False,obstacle,12.0,"{'sign', 'obstacle', 'street_object'}",move,0.0,0.0,
+20240918-youtube_short_cae03bdf74b8e64b936193787fdd79c6_2min13s.frame,{'junction'},False,1.0,continue,caution,False,obstacle,12.0,"{'wall_door', 'obstacle'}",continue,0.0,0.0,
+20240918-youtube_short_cae03bdf74b8e64b936193787fdd79c6_43s.frame,{'barrier_cone'},False,11.0,continue,caution,False,tree_plant,12.0,"{'tree_plant', 'pedestrian', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_cae03bdf74b8e64b936193787fdd79c6_4min15s.frame,{'barrier_cone'},False,12.0,continue,caution,False,street_object,12.0,"{'tree_plant', 'pedestrian', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_cae03bdf74b8e64b936193787fdd79c6_4min48s.frame,{'fence_railing'},False,12.0,continue,stop,False,wall_door,12.0,"{'wall_door', 'tree_plant'}",stop,0.0,0.0,
+20240918-youtube_short_cb9f72233a75d2983cbf0d646e032ece_19s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_cb9f72233a75d2983cbf0d646e032ece_1min25s.frame,"{'pedestrian', 'narrow_crowded'}",False,12.0,continue,slow,False,pedestrian,11.0,"{'pedestrian', 'two_wheeler'}",slow,1.0,1.0,1.0
+20240918-youtube_short_cb9f72233a75d2983cbf0d646e032ece_2min54s.frame,{'pedestrian'},False,12.0,continue,slow,False,stairs_step,1.0,"{'stairs_step', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_cb9f72233a75d2983cbf0d646e032ece_2min7s.frame,{'pedestrian'},False,1.0,continue,caution,False,pedestrian,1.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_cb9f72233a75d2983cbf0d646e032ece_3min10s.frame,{'pedestrian'},False,11.0,continue,caution,False,stairs_step,1.0,"{'stairs_step', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_cb9f72233a75d2983cbf0d646e032ece_3min46s.frame,{'pedestrian'},False,12.0,continue,slow,False,two_wheeler,11.0,"{'pedestrian', 'two_wheeler'}",slow,0.0,1.0,
+20240918-youtube_short_cb9f72233a75d2983cbf0d646e032ece_4min31s.frame,{'street_object'},False,12.0,move,caution,False,street_object,11.0,"{'pedestrian', 'street_object', 'furniture_stall'}",continue,1.0,1.0,1.0
+20240918-youtube_short_cb9f72233a75d2983cbf0d646e032ece_57s.frame,"{'barrier_cone', 'pedestrian'}",False,12.0,continue,slow,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler'}",slow,0.0,1.0,
+20240918-youtube_short_cc8241e21f273fd213a4e857bb320f77_1min11s.frame,"{'other_object', 'sign'}",False,11.0,continue,caution,False,vehicle,12.0,"{'sign', 'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_cc8241e21f273fd213a4e857bb320f77_26s.frame,"{'curb_edge', 'tree_plant', 'vehicle'}",False,11.0,move,slow,False,two_wheeler,12.0,"{'tree_plant', 'two_wheeler', 'obstacle'}",slow,0.0,1.0,
+20240918-youtube_short_cc8241e21f273fd213a4e857bb320f77_2min03s.frame,"{'pedestrian', 'pole'}",False,11.0,move,caution,False,obstacle,1.0,"{'tree_plant', 'pedestrian', 'obstacle'}",continue,0.0,1.0,
+20240918-youtube_short_cc8241e21f273fd213a4e857bb320f77_3min11s.frame,{'tree_plant'},False,12.0,slow,caution,False,obstacle,11.0,"{'tree_plant', 'obstacle', 'sign'}",continue,0.0,1.0,
+20240918-youtube_short_cc8241e21f273fd213a4e857bb320f77_3min26s.frame,{'off_route'},False,,move,clear,True,,,"{'tree_plant', 'street_object', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_cc8241e21f273fd213a4e857bb320f77_4min19s.frame,{'wall_door'},False,12.0,move,caution,False,tree_plant,1.0,"{'tree_plant', 'pedestrian'}",continue,0.0,0.0,
+20240918-youtube_short_cc8241e21f273fd213a4e857bb320f77_4min39s.frame,{'vehicle'},False,1.0,slow,slow,False,vehicle,12.0,"{'street_object', 'vehicle', 'pole'}",slow,1.0,1.0,1.0
+20240918-youtube_short_ccfb9faeaa0447945bdfd417bb9fcb6e_1m49s.frame,"{'barrier_cone', 'pedestrian'}",False,1.0,continue,move,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",move,1.0,1.0,1.0
+20240918-youtube_short_ccfb9faeaa0447945bdfd417bb9fcb6e_1m8s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,11.0,"{'barrier_cone', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_ccfb9faeaa0447945bdfd417bb9fcb6e_3m46s.frame,"{'pedestrian', 'furniture_stall'}",False,11.0,continue,slow,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler'}",slow,0.0,1.0,
+20240918-youtube_short_ccfb9faeaa0447945bdfd417bb9fcb6e_3m53s.frame,{'vehicle'},False,1.0,continue,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_ccfb9faeaa0447945bdfd417bb9fcb6e_4m4s.frame,"{'tree_plant', 'two_wheeler', 'street_object'}",False,1.0,continue,caution,False,two_wheeler,12.0,"{'two_wheeler', 'obstacle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_cfcd729df0ca6b3953f5e94f8d0e8010_2m20s.frame,"{'two_wheeler', 'sign'}",False,,continue,slow,False,two_wheeler,12.0,{'two_wheeler'},slow,1.0,1.0,
+20240918-youtube_short_cfcd729df0ca6b3953f5e94f8d0e8010_2m5s.frame,{'junction'},False,12.0,slow,caution,False,tree_plant,1.0,"{'wall_door', 'barrier_cone', 'tree_plant'}",continue,0.0,0.0,
+20240918-youtube_short_cfcd729df0ca6b3953f5e94f8d0e8010_3m14s.frame,{'vehicle'},False,11.0,slow,caution,False,vehicle,11.0,"{'wall_door', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_cfcd729df0ca6b3953f5e94f8d0e8010_4m37s.frame,"{'two_wheeler', 'vehicle'}",False,12.0,stop,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_cfcd729df0ca6b3953f5e94f8d0e8010_54s.frame,"{'animal', 'vehicle'}",False,11.0,continue,caution,False,vehicle,11.0,"{'animal', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_d0c5cfea009cacb1026bcb0bbbb20ee6_3m44s.frame,{'vehicle'},False,11.0,stop,clear,True,,,"{'pedestrian', 'street_object', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_d0c5cfea009cacb1026bcb0bbbb20ee6_4m36s.frame,{'vehicle'},False,1.0,continue,clear,True,,,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_d5da676647536d19daa859f6c450a15f_12s.frame,"{'other_object', 'pedestrian'}",False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'sign'}",slow,0.0,1.0,
+20240918-youtube_short_d5da676647536d19daa859f6c450a15f_1m10s.frame,{'fence_railing'},False,12.0,continue,clear,True,,,set(),continue,0.0,0.0,
+20240918-youtube_short_d5da676647536d19daa859f6c450a15f_1m55s.frame,{'junction'},False,12.0,continue,clear,True,,,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_d6c818eee2265456100c94b2a45fced1_1m46s.frame,{'pedestrian'},False,1.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_d6c818eee2265456100c94b2a45fced1_26s.frame,{'furniture_stall'},False,1.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",slow,0.0,0.0,
+20240918-youtube_short_d6c818eee2265456100c94b2a45fced1_2m45s.frame,{'pedestrian'},False,11.0,continue,caution,False,furniture_stall,12.0,"{'wall_door', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_d6c818eee2265456100c94b2a45fced1_4m14s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_d6c818eee2265456100c94b2a45fced1_4m36s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_d6c818eee2265456100c94b2a45fced1_4m56s.frame,"{'pedestrian', 'animal'}",False,11.0,continue,slow,False,stairs_step,12.0,{'stairs_step'},slow,0.0,0.0,
+20240918-youtube_short_d7aa22cb47b825bf56ab0b416bdd137c_2m10s.frame,"{'two_wheeler', 'street_object'}",False,1.0,continue,slow,False,two_wheeler,1.0,"{'pedestrian', 'two_wheeler', 'street_object'}",slow,1.0,1.0,1.0
+20240918-youtube_short_d7aa22cb47b825bf56ab0b416bdd137c_2m41s.frame,set(),True,,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,,,
+20240918-youtube_short_d7aa22cb47b825bf56ab0b416bdd137c_3m4s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler'}",slow,1.0,1.0,1.0
+20240918-youtube_short_d7aa22cb47b825bf56ab0b416bdd137c_4m52s.frame,{'sign'},False,11.0,continue,caution,False,sign,12.0,"{'pedestrian', 'sign'}",continue,1.0,1.0,1.0
+20240918-youtube_short_d8fd1845a0490cad66c2fcc465a60a2a_4m41s.frame,{'other_object'},False,11.0,continue,caution,False,vehicle,11.0,"{'pedestrian', 'vehicle', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_de56b495e555a0e5bee03c2e73346915_1min16s.frame,{'two_wheeler'},False,1.0,continue,move,False,two_wheeler,12.0,{'two_wheeler'},move,1.0,1.0,1.0
+20240918-youtube_short_de56b495e555a0e5bee03c2e73346915_1min52s.frame,{'sign'},False,,continue,move,False,wall_door,12.0,"{'wall_door', 'obstacle', 'sign'}",move,0.0,1.0,
+20240918-youtube_short_de56b495e555a0e5bee03c2e73346915_3min37s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian', 'two_wheeler'}",continue,1.0,1.0,1.0
+20240918-youtube_short_e1b87838a3db584531664cd605889e31_1m15s.frame,{'street_object'},False,12.0,continue,slow,False,two_wheeler,12.0,"{'wall_door', 'two_wheeler', 'street_object'}",slow,0.0,1.0,
+20240918-youtube_short_e1b87838a3db584531664cd605889e31_1m1s.frame,set(),True,,continue,clear,True,,,set(),continue,,,
+20240918-youtube_short_e1b87838a3db584531664cd605889e31_3m34s.frame,set(),True,,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,,,
+20240918-youtube_short_e1b87838a3db584531664cd605889e31_4m14s.frame,{'pedestrian'},False,10.0,continue,caution,False,pedestrian,11.0,"{'pedestrian', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_e1b87838a3db584531664cd605889e31_4m17s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'pole'}",slow,1.0,1.0,1.0
+20240918-youtube_short_e1b87838a3db584531664cd605889e31_52s.frame,"{'wall_door', 'other_object'}",False,11.0,continue,clear,True,,,{'fence_railing'},continue,0.0,0.0,
+20240918-youtube_short_e1b87838a3db584531664cd605889e31_6s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_e1bc1bc6406f3731c97710b200349ac2_34s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",continue,1.0,1.0,1.0
+20240918-youtube_short_e1bc1bc6406f3731c97710b200349ac2_39s.frame,{'pedestrian'},False,10.0,slow,slow,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",slow,1.0,1.0,0.0
+20240918-youtube_short_e1bc1bc6406f3731c97710b200349ac2_6s.frame,{'vehicle'},False,12.0,move,slow,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler'}",slow,0.0,0.0,
+20240918-youtube_short_e22868d94afc7de2aa1c371502febad0_2m58s.frame,"{'tree_plant', 'narrow_crowded', 'furniture_stall'}",False,12.0,slow,clear,True,,,"{'pedestrian', 'furniture_stall'}",continue,0.0,1.0,
+20240918-youtube_short_e22868d94afc7de2aa1c371502febad0_3m28s.frame,"{'pedestrian', 'vehicle', 'sign', 'junction'}",False,12.0,continue,clear,True,,,"{'pedestrian', 'animal'}",continue,0.0,1.0,
+20240918-youtube_short_e401a7219e1a52b42387963d9e4395c1_1m53s.frame,set(),True,,continue,clear,True,,,{'pedestrian'},continue,,,
+20240918-youtube_short_e401a7219e1a52b42387963d9e4395c1_1m58s.frame,{'sign'},False,2.0,continue,caution,False,obstacle,1.0,"{'wall_door', 'obstacle'}",continue,0.0,0.0,
+20240918-youtube_short_e401a7219e1a52b42387963d9e4395c1_2m12s.frame,"{'wall_door', 'tree_plant', 'narrow_crowded'}",False,11.0,continue,caution,False,street_object,12.0,"{'furniture_stall', 'street_object', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_e401a7219e1a52b42387963d9e4395c1_2m24s.frame,{'narrow_crowded'},False,,continue,caution,False,pole,12.0,"{'wall_door', 'street_object', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_e401a7219e1a52b42387963d9e4395c1_2m53s.frame,"{'wall_door', 'other_object'}",False,1.0,move,slow,False,wall_door,12.0,"{'wall_door', 'fence_railing'}",slow,1.0,1.0,1.0
+20240918-youtube_short_e401a7219e1a52b42387963d9e4395c1_3m47.frame,{'vehicle'},False,2.0,continue,slow,False,vehicle,1.0,{'vehicle'},slow,1.0,1.0,1.0
+20240918-youtube_short_e401a7219e1a52b42387963d9e4395c1_3m54s.frame,"{'narrow_crowded', 'vehicle'}",False,11.0,continue,slow,False,vehicle,1.0,{'vehicle'},slow,1.0,1.0,0.0
+20240918-youtube_short_e401a7219e1a52b42387963d9e4395c1_4m18s.frame,{'pedestrian'},False,2.0,continue,caution,False,furniture_stall,12.0,{'furniture_stall'},continue,0.0,0.0,
+20240918-youtube_short_e66c7ee3004b5aa246b1438b0408c907_23s.frame,{'furniture_stall'},False,11.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'street_object'}",slow,0.0,0.0,
+20240918-youtube_short_e66c7ee3004b5aa246b1438b0408c907_33s.frame,"{'furniture_stall', 'pole'}",False,12.0,continue,slow,False,fence_railing,12.0,"{'wall_door', 'fence_railing', 'furniture_stall'}",slow,0.0,1.0,
+20240918-youtube_short_e66c7ee3004b5aa246b1438b0408c907_4m13s.frame,set(),True,,continue,caution,False,wall_door,11.0,"{'wall_door', 'pedestrian'}",continue,,,
+20240918-youtube_short_e66c7ee3004b5aa246b1438b0408c907_4m26s.frame,"{'barrier_cone', 'street_object'}",False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'barrier_cone'}",continue,0.0,1.0,
+20240918-youtube_short_e91e763b018e26d0a663ef0756da403f_1min17s.frame,{'vehicle'},False,11.0,continue,clear,True,,,"{'pedestrian', 'vehicle'}",continue,0.0,1.0,
+20240918-youtube_short_e91e763b018e26d0a663ef0756da403f_3min53s.frame,"{'barrier_cone', 'narrow_crowded'}",False,11.0,slow,slow,False,vehicle,12.0,"{'pedestrian', 'street_object', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_e91e763b018e26d0a663ef0756da403f_4min34s.frame,{'barrier_cone'},False,1.0,continue,move,False,furniture_stall,12.0,"{'furniture_stall', 'pedestrian', 'street_object'}",move,0.0,0.0,
+20240918-youtube_short_e91e763b018e26d0a663ef0756da403f_4min36s.frame,"{'pedestrian', 'narrow_crowded'}",False,1.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_e93770538101c9669e57265fe378776e_1m32s.frame,{'wall_door'},False,12.0,continue,slow,False,vehicle,11.0,"{'wall_door', 'fence_railing', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_e93770538101c9669e57265fe378776e_22s.frame,set(),False,,slow,caution,False,obstacle,11.0,"{'fence_railing', 'obstacle', 'vehicle'}",continue,,,
+20240918-youtube_short_e93770538101c9669e57265fe378776e_2m3s.frame,"{'tree_plant', 'vehicle'}",False,11.0,continue,stop,False,vehicle,11.0,"{'pedestrian', 'vehicle'}",stop,1.0,1.0,1.0
+20240918-youtube_short_e93770538101c9669e57265fe378776e_3m12s.frame,{'sign'},False,12.0,continue,move,False,sign,12.0,"{'barrier_cone', 'sign'}",move,1.0,1.0,1.0
+20240918-youtube_short_e93770538101c9669e57265fe378776e_3m26s.frame,"{'sign', 'vehicle', 'pole'}",False,11.0,continue,slow,False,vehicle,11.0,"{'wall_door', 'barrier_cone', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_e93770538101c9669e57265fe378776e_3m27s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,11.0,"{'wall_door', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_e93770538101c9669e57265fe378776e_3m6s.frame,"{'barrier_cone', 'pedestrian'}",False,12.0,continue,slow,False,vehicle,1.0,"{'barrier_cone', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_e93770538101c9669e57265fe378776e_4m21s.frame,"{'vehicle', 'pole'}",False,11.0,continue,caution,False,vehicle,12.0,"{'sign', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_e93770538101c9669e57265fe378776e_57s.frame,{'vehicle'},False,1.0,continue,caution,False,vehicle,1.0,{'vehicle'},continue,1.0,1.0,1.0
+20240918-youtube_short_e962006b9912d5189eee96389d8a4de2_1min36s.frame,"{'fence_railing', 'sign', 'junction'}",False,1.0,move,caution,False,obstacle,11.0,"{'obstacle', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_e962006b9912d5189eee96389d8a4de2_2min57s.frame,"{'barrier_cone', 'pedestrian'}",False,11.0,move,slow,False,vehicle,1.0,"{'pedestrian', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_e962006b9912d5189eee96389d8a4de2_4min52s.frame,{'vehicle'},False,12.0,move,caution,False,vehicle,1.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_e962006b9912d5189eee96389d8a4de2_5s.frame,{'tree_plant'},False,12.0,move,slow,False,wall_door,12.0,"{'wall_door', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_e9ef273213b940558d6eedd6610c8e01_1m14s.frame,"{'barrier_cone', 'pedestrian'}",False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'sign'}",slow,1.0,1.0,1.0
+20240918-youtube_short_e9ef273213b940558d6eedd6610c8e01_29s.frame,"{'street_object', 'pole'}",False,1.0,continue,caution,False,street_object,1.0,"{'pedestrian', 'street_object', 'pole'}",continue,1.0,1.0,1.0
+20240918-youtube_short_e9ef273213b940558d6eedd6610c8e01_3m3s.frame,{'vehicle'},False,1.0,continue,slow,False,vehicle,12.0,"{'stairs_step', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_e9ef273213b940558d6eedd6610c8e01_3m57s.frame,{'tree_plant'},False,1.0,continue,caution,False,hole_uneven,1.0,"{'pedestrian', 'hole_uneven'}",continue,0.0,0.0,
+20240918-youtube_short_e9ef273213b940558d6eedd6610c8e01_45s.frame,{'tree_plant'},False,1.0,continue,caution,False,street_object,12.0,"{'street_object', 'pole'}",continue,0.0,0.0,
+20240918-youtube_short_e9ef273213b940558d6eedd6610c8e01_4m7s.frame,{'pedestrian'},False,,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'street_object'}",continue,1.0,1.0,
+20240918-youtube_short_e9ef273213b940558d6eedd6610c8e01_8s.frame,set(),True,,continue,clear,True,,,"{'pedestrian', 'pole'}",continue,,,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_12s.frame,{'pole'},False,12.0,move,clear,True,,,set(),continue,0.0,0.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_1min02s.frame,"{'fence_railing', 'off_route'}",False,12.0,move,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'furniture_stall'}",continue,0.0,0.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_1min07s.frame,"{'fence_railing', 'off_route'}",False,12.0,move,clear,True,,,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_1min47s.frame,{'pedestrian'},False,11.0,move,caution,False,furniture_stall,1.0,"{'furniture_stall', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_1min53s.frame,{'pedestrian'},False,10.0,stop,caution,False,wall_door,12.0,"{'wall_door', 'furniture_stall', 'pedestrian'}",continue,0.0,1.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_2min27s.frame,{'pedestrian'},False,11.0,continue,slow,False,wall_door,1.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_2min32s.frame,{'pedestrian'},False,1.0,continue,clear,True,,,{'pedestrian'},continue,0.0,1.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_3min18s.frame,"{'pedestrian', 'pole'}",False,11.0,move,move,False,vehicle,12.0,"{'tree_plant', 'vehicle', 'pole'}",move,0.0,1.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_3min54s.frame,"{'tree_plant', 'vehicle', 'sign'}",False,12.0,move,slow,False,fence_railing,12.0,{'fence_railing'},slow,0.0,0.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_4min01s.frame,{'pole'},False,12.0,move,slow,False,vehicle,12.0,"{'wall_door', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_f069ed3e6d9d4bf7ee9298fe46c25069_4min15s.frame,"{'pedestrian', 'vehicle', 'sign'}",False,12.0,continue,move,False,vehicle,12.0,"{'tree_plant', 'obstacle', 'vehicle'}",move,1.0,1.0,1.0
+20240918-youtube_short_f61385006f2e41f7debf473545f267e5_2min28s.frame,{'pedestrian'},False,12.0,slow,slow,False,wall_door,12.0,"{'wall_door', 'stairs_step', 'two_wheeler'}",slow,0.0,0.0,
+20240918-youtube_short_f622f46528a66bb0a4e152a03037f29f_1m33s.frame,{'pedestrian'},False,12.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_f622f46528a66bb0a4e152a03037f29f_2m32s.frame,{'fence_railing'},False,11.0,continue,slow,False,water,12.0,"{'pedestrian', 'water'}",slow,0.0,0.0,
+20240918-youtube_short_f622f46528a66bb0a4e152a03037f29f_2m43s.frame,"{'wall_door', 'pole'}",False,11.0,continue,clear,True,,,"{'sign', 'vehicle', 'pole'}",continue,0.0,1.0,
+20240918-youtube_short_f622f46528a66bb0a4e152a03037f29f_2m54s.frame,{'stairs_step'},False,1.0,continue,caution,False,stairs_step,12.0,{'stairs_step'},continue,1.0,1.0,1.0
+20240918-youtube_short_f622f46528a66bb0a4e152a03037f29f_3m20s.frame,{'other_object'},False,12.0,continue,caution,False,water,12.0,{'water'},continue,0.0,0.0,
+20240918-youtube_short_f622f46528a66bb0a4e152a03037f29f_41s.frame,{'street_object'},False,12.0,continue,move,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",move,0.0,0.0,
+20240918-youtube_short_f622f46528a66bb0a4e152a03037f29f_54s.frame,"{'pedestrian', 'street_object'}",False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",slow,0.0,1.0,
+20240918-youtube_short_f622f46528a66bb0a4e152a03037f29f_57s.frame,"{'pedestrian', 'street_object'}",False,,continue,clear,True,,,{'pedestrian'},continue,0.0,1.0,
+20240918-youtube_short_f6ddaedf7aae1b02a56dee04381de8f7_1min14s.frame,{'vehicle'},False,12.0,continue,caution,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",continue,1.0,1.0,1.0
+20240918-youtube_short_f6ddaedf7aae1b02a56dee04381de8f7_1min44s.frame,{'vehicle'},False,12.0,move,stop,False,vehicle,11.0,"{'fence_railing', 'vehicle'}",stop,1.0,1.0,1.0
+20240918-youtube_short_f6ddaedf7aae1b02a56dee04381de8f7_1min52s.frame,{'vehicle'},False,11.0,continue,slow,False,two_wheeler,11.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",slow,0.0,1.0,
+20240918-youtube_short_f6ddaedf7aae1b02a56dee04381de8f7_3min02s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,11.0,{'vehicle'},slow,1.0,1.0,1.0
+20240918-youtube_short_faf0d14c56d1b40b377daed5efec74f3_32s.frame,{'street_object'},False,12.0,continue,caution,False,stairs_step,12.0,"{'stairs_step', 'obstacle', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_faf0d14c56d1b40b377daed5efec74f3_51s.frame,"{'tree_plant', 'pole'}",False,11.0,slow,clear,True,,,{'furniture_stall'},continue,0.0,0.0,
+20240918-youtube_short_fb99b3ff851dd0c32e5ea27c50c03155_1m20s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,11.0,"{'wall_door', 'obstacle', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_fb99b3ff851dd0c32e5ea27c50c03155_2m18s.frame,{'other_object'},False,11.0,continue,slow,False,stairs_step,12.0,"{'stairs_step', 'two_wheeler', 'vehicle'}",slow,0.0,0.0,
+20240918-youtube_short_fb99b3ff851dd0c32e5ea27c50c03155_2m37s.frame,{'stairs_step'},False,12.0,continue,slow,False,wall_door,12.0,"{'wall_door', 'pedestrian', 'sign'}",slow,0.0,0.0,
+20240918-youtube_short_fb99b3ff851dd0c32e5ea27c50c03155_2m50s.frame,"{'sign', 'narrow_crowded', 'vehicle'}",False,11.0,continue,slow,False,vehicle,11.0,"{'barrier_cone', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_fb99b3ff851dd0c32e5ea27c50c03155_3s.frame,"{'other_object', 'sign'}",False,11.0,continue,caution,False,hole_uneven,12.0,"{'wall_door', 'hole_uneven', 'sign'}",continue,0.0,1.0,
+20240918-youtube_short_fb99b3ff851dd0c32e5ea27c50c03155_4m26s.frame,{'vehicle'},False,11.0,continue,slow,False,vehicle,12.0,"{'furniture_stall', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_fb99b3ff851dd0c32e5ea27c50c03155_4m45s.frame,{'tree_plant'},False,11.0,continue,clear,True,,,"{'tree_plant', 'street_object'}",continue,0.0,1.0,
+20240918-youtube_short_fb99b3ff851dd0c32e5ea27c50c03155_54s.frame,"{'other_object', 'sign'}",False,10.0,continue,caution,False,two_wheeler,12.0,"{'pedestrian', 'two_wheeler', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_fc27ef7a90a4e596d8113013f67a297e_1min55s.frame,{'pedestrian'},False,11.0,slow,slow,False,stairs_step,12.0,{'stairs_step'},slow,0.0,0.0,
+20240918-youtube_short_fc27ef7a90a4e596d8113013f67a297e_3min45s.frame,{'pedestrian'},False,1.0,slow,clear,True,,,"{'pedestrian', 'furniture_stall'}",continue,0.0,1.0,
+20240918-youtube_short_fc27ef7a90a4e596d8113013f67a297e_44s.frame,{'off_route'},False,,move,caution,False,wall_door,12.0,"{'wall_door', 'street_object'}",continue,0.0,0.0,
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_13s.frame,{'pedestrian'},False,12.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_1min07s.frame,{'pedestrian'},False,12.0,stop,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_1min26s.frame,"{'pedestrian', 'junction'}",False,,slow,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_1min42s.frame,set(),False,,move,caution,False,wall_door,11.0,"{'wall_door', 'tree_plant'}",continue,,,
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_1min58s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",slow,1.0,1.0,1.0
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_22s.frame,{'pedestrian'},False,1.0,continue,caution,False,pedestrian,12.0,"{'pedestrian', 'furniture_stall'}",continue,1.0,1.0,1.0
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_2min29s.frame,"{'pedestrian', 'furniture_stall'}",False,12.0,continue,caution,False,furniture_stall,11.0,"{'furniture_stall', 'two_wheeler', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_3min14s.frame,"{'pedestrian', 'off_route', 'pole'}",False,12.0,move,move,False,hole_uneven,12.0,"{'hole_uneven', 'vehicle'}",move,0.0,0.0,
+20240918-youtube_short_fe880bc6cb4798233f2a42ad07167abe_4min04s.frame,set(),True,,continue,caution,False,wall_door,12.0,"{'wall_door', 'pole'}",continue,,,
+20240918-youtube_short_ff125a20582daee6473824a70f884c99_1m29s.frame,"{'vehicle', 'pole'}",False,11.0,continue,slow,False,vehicle,11.0,"{'barrier_cone', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_ff125a20582daee6473824a70f884c99_30s.frame,{'vehicle'},False,1.0,stop,caution,False,pedestrian,12.0,{'pedestrian'},continue,0.0,0.0,
+20240918-youtube_short_ff125a20582daee6473824a70f884c99_3m32s.frame,{'vehicle'},False,11.0,slow,slow,False,vehicle,12.0,"{'fence_railing', 'vehicle'}",slow,1.0,1.0,1.0
+20240918-youtube_short_ff3d76b7a7e767e6454633206288fc50_1m25s.frame,{'pedestrian'},False,11.0,continue,clear,True,,,"{'pedestrian', 'two_wheeler'}",continue,0.0,1.0,
+20240918-youtube_short_ff3d76b7a7e767e6454633206288fc50_1m54s.frame,"{'pedestrian', 'two_wheeler'}",False,11.0,continue,caution,False,two_wheeler,12.0,{'two_wheeler'},continue,1.0,1.0,1.0
+20240918-youtube_short_ff3d76b7a7e767e6454633206288fc50_21s.frame,{'junction'},False,12.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,0.0,
+20240918_short_08029dfc245380ca2859cf807aa0c976_10s.frame,"{'barrier_cone', 'tree_plant'}",False,11.0,slow,caution,False,obstacle,1.0,"{'pedestrian', 'two_wheeler', 'obstacle'}",continue,0.0,0.0,
+20240918_short_08029dfc245380ca2859cf807aa0c976_1min14s.frame,"{'tree_plant', 'stairs_step'}",False,11.0,continue,caution,False,wall_door,1.0,{'wall_door'},continue,0.0,0.0,
+20240918_short_08029dfc245380ca2859cf807aa0c976_2min10s.frame,"{'tree_plant', 'stairs_step'}",False,1.0,continue,clear,True,,,set(),continue,0.0,0.0,
+20240918_short_08029dfc245380ca2859cf807aa0c976_2min59s.frame,"{'barrier_cone', 'pedestrian'}",False,11.0,slow,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918_short_08029dfc245380ca2859cf807aa0c976_3min27s.frame,"{'barrier_cone', 'junction'}",False,11.0,continue,move,False,hole_uneven,12.0,{'hole_uneven'},move,0.0,0.0,
+20240918_short_08029dfc245380ca2859cf807aa0c976_3min45s.frame,"{'barrier_cone', 'pedestrian'}",False,11.0,continue,caution,False,vehicle,11.0,"{'pedestrian', 'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240918_short_08029dfc245380ca2859cf807aa0c976_55s.frame,"{'wall_door', 'barrier_cone'}",False,11.0,continue,caution,False,obstacle,11.0,{'obstacle'},continue,0.0,0.0,
+20240918_short_0888ffd8667de47ac5a30afe840ddb7a_1min35s.frame,"{'curb_edge', 'vehicle'}",False,11.0,move,slow,False,vehicle,11.0,{'vehicle'},slow,1.0,1.0,1.0
+20240918_short_0888ffd8667de47ac5a30afe840ddb7a_22s.frame,{'hole_uneven'},False,12.0,slow,clear,True,,,{'vehicle'},continue,0.0,0.0,
+20240918_short_0888ffd8667de47ac5a30afe840ddb7a_2min03s.frame,set(),True,,continue,caution,False,street_object,1.0,{'street_object'},continue,,,
+20240918_short_0888ffd8667de47ac5a30afe840ddb7a_38s.frame,"{'curb_edge', 'vehicle'}",False,11.0,move,slow,False,vehicle,11.0,"{'hole_uneven', 'vehicle'}",slow,1.0,1.0,1.0
+20240918_short_0888ffd8667de47ac5a30afe840ddb7a_3min03s.frame,set(),True,,continue,clear,True,,,{'vehicle'},continue,,,
+20240918_short_0888ffd8667de47ac5a30afe840ddb7a_3min13s.frame,{'pedestrian'},False,12.0,continue,move,False,hole_uneven,12.0,"{'pedestrian', 'hole_uneven', 'vehicle'}",move,0.0,1.0,
+20240918_short_0888ffd8667de47ac5a30afe840ddb7a_4min22s.frame,{'junction'},False,,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,0.0,0.0,
+20240918_short_0888ffd8667de47ac5a30afe840ddb7a_4min47s.frame,"{'barrier_cone', 'vehicle'}",False,11.0,slow,move,False,hole_uneven,12.0,"{'two_wheeler', 'hole_uneven', 'vehicle'}",move,0.0,1.0,
+20240918_short_0badfd426e396467429689b8798ff1d1_43s.frame,"{'pedestrian', 'junction'}",False,12.0,continue,caution,False,street_object,1.0,"{'pedestrian', 'street_object'}",continue,0.0,1.0,
+20240918_short_12aa2fe5e80f0e3d55a8d0fea32764bb_16s.frame,"{'pedestrian', 'pole'}",False,12.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918_short_12aa2fe5e80f0e3d55a8d0fea32764bb_30s.frame,set(),True,,continue,clear,True,,,{'pedestrian'},continue,,,
+20240918_short_12aa2fe5e80f0e3d55a8d0fea32764bb_3m55s.frame,{'pole'},False,1.0,continue,caution,False,wall_door,1.0,"{'wall_door', 'pedestrian', 'two_wheeler'}",continue,0.0,0.0,
+20240918_short_12aa2fe5e80f0e3d55a8d0fea32764bb_4m41s.frame,{'pedestrian'},False,11.0,continue,clear,True,,,{'pedestrian'},continue,0.0,1.0,
+20240918_short_174965e313b96a6786737a110168760c_1m2s.frame,{'pedestrian'},False,3.0,continue,slow,False,pedestrian,1.0,{'pedestrian'},slow,1.0,1.0,0.0
+20240918_short_174965e313b96a6786737a110168760c_1m57s.frame,set(),True,,continue,caution,False,hole_uneven,1.0,"{'pedestrian', 'hole_uneven', 'street_object'}",continue,,,
+20240918_short_174965e313b96a6786737a110168760c_1m6s.frame,{'pedestrian'},False,12.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918_short_174965e313b96a6786737a110168760c_3m11s.frame,set(),True,,continue,slow,False,hole_uneven,12.0,"{'pedestrian', 'hole_uneven'}",slow,,,
+20240918_short_174965e313b96a6786737a110168760c_55s.frame,"{'pedestrian', 'sign'}",False,12.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918_short_182e55575bbe690cd041ebed5cff9e72_1m21s.frame,set(),True,,continue,clear,True,,,"{'pedestrian', 'vehicle'}",continue,,,
+20240918_short_182e55575bbe690cd041ebed5cff9e72_27s.frame,{'narrow_crowded'},False,,continue,move,False,stairs_step,12.0,"{'stairs_step', 'street_object'}",move,0.0,0.0,
+20240918_short_182e55575bbe690cd041ebed5cff9e72_2m32s.frame,{'pedestrian'},False,2.0,continue,caution,False,pole,12.0,"{'pedestrian', 'pole'}",continue,0.0,1.0,
+20240918_short_182e55575bbe690cd041ebed5cff9e72_2m56s.frame,{'narrow_crowded'},False,,continue,caution,False,street_object,12.0,"{'street_object', 'pole'}",continue,0.0,0.0,
+20240918_short_182e55575bbe690cd041ebed5cff9e72_3m10s.frame,{'two_wheeler'},False,2.0,continue,slow,False,two_wheeler,1.0,{'two_wheeler'},slow,1.0,1.0,1.0
+20240918_short_182e55575bbe690cd041ebed5cff9e72_3m39s.frame,set(),True,,continue,clear,True,,,"{'barrier_cone', 'fence_railing'}",continue,,,
+20240918_short_286c0af6c4791ce090c4ec0d98c6203f_2min23s.frame,"{'barrier_cone', 'junction'}",False,,slow,slow,False,vehicle,1.0,"{'street_object', 'obstacle', 'vehicle'}",slow,0.0,0.0,
+20240918_short_286c0af6c4791ce090c4ec0d98c6203f_34s.frame,{'vehicle'},False,11.0,continue,clear,True,,,"{'tree_plant', 'two_wheeler'}",continue,0.0,0.0,
+20240918_short_286c0af6c4791ce090c4ec0d98c6203f_3min03s.frame,set(),True,,continue,caution,False,vehicle,1.0,"{'two_wheeler', 'vehicle'}",continue,,,
+20240918_short_286c0af6c4791ce090c4ec0d98c6203f_3min53s.frame,{'pole'},False,1.0,continue,slow,False,barrier_cone,12.0,"{'barrier_cone', 'water'}",slow,0.0,0.0,
+20240918_short_286c0af6c4791ce090c4ec0d98c6203f_4min13s.frame,set(),True,,continue,clear,True,,,set(),continue,,,
+20240918_short_286c0af6c4791ce090c4ec0d98c6203f_4min33s.frame,{'junction'},False,,continue,clear,True,,,set(),continue,0.0,0.0,
+20240918_short_286c0af6c4791ce090c4ec0d98c6203f_4min53s.frame,"{'barrier_cone', 'pole'}",False,11.0,continue,move,False,water,12.0,"{'barrier_cone', 'water', 'street_object'}",move,0.0,1.0,
+20240918_short_286c0af6c4791ce090c4ec0d98c6203f_55s.frame,{'tree_plant'},False,11.0,continue,caution,False,pole,12.0,"{'vehicle', 'pole'}",continue,0.0,0.0,
+20240918_short_3f9c5f77764ea70297007f2f555739d1_31s.frame,set(),True,,continue,caution,False,two_wheeler,1.0,"{'barrier_cone', 'two_wheeler', 'street_object'}",continue,,,
+20240918_short_46a84906e2b1552f5c3ed97ad6e318b0_2min31s.frame,{'pedestrian'},False,11.0,slow,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918_short_46a84906e2b1552f5c3ed97ad6e318b0_3min06s.frame,{'pedestrian'},False,10.0,continue,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,0.0
+20240918_short_46a84906e2b1552f5c3ed97ad6e318b0_3min10s.frame,{'pedestrian'},False,12.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918_short_46a84906e2b1552f5c3ed97ad6e318b0_3min22s.frame,{'pedestrian'},False,11.0,continue,slow,False,obstacle,1.0,"{'pedestrian', 'obstacle'}",slow,0.0,1.0,
+20240918_short_46a84906e2b1552f5c3ed97ad6e318b0_3min52s.frame,{'pedestrian'},False,12.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918_short_46a84906e2b1552f5c3ed97ad6e318b0_41s.frame,{'pedestrian'},False,11.0,slow,stop,False,water,1.0,"{'pedestrian', 'water'}",stop,0.0,1.0,
+20240918_short_46a84906e2b1552f5c3ed97ad6e318b0_4min32s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",slow,1.0,1.0,1.0
+20240918_short_4e44fff24fa4c50b5da0b8aa8c2a7854_1m19s.frame,{'pedestrian'},False,11.0,stop,caution,False,pedestrian,12.0,"{'tree_plant', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918_short_4e44fff24fa4c50b5da0b8aa8c2a7854_1m50s.frame,"{'fence_railing', 'tree_plant'}",False,,continue,clear,True,,,{'pedestrian'},continue,0.0,0.0,
+20240918_short_51dadffcfe8e352852ffa0fe6587a255_2min21s.frame,{'vehicle'},False,1.0,continue,clear,True,,,"{'tree_plant', 'fence_railing'}",continue,0.0,0.0,
+20240918_short_51dadffcfe8e352852ffa0fe6587a255_30s.frame,{'barrier_cone'},False,1.0,continue,caution,False,wall_door,11.0,"{'wall_door', 'two_wheeler'}",continue,0.0,0.0,
+20240918_short_55fc8f7a5e3ac2e758dc203b65d5a65b_30s.frame,set(),True,,continue,move,False,water,12.0,"{'water', 'hole_uneven'}",move,,,
+20240918_short_55fc8f7a5e3ac2e758dc203b65d5a65b_40s.frame,{'pedestrian'},False,11.0,slow,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918_short_5fb4bda14e58b742504f1906a68779e7_12s.frame,{'vehicle'},False,9.0,stop,move,False,vehicle,12.0,"{'hole_uneven', 'vehicle'}",move,1.0,1.0,0.0
+20240918_short_5fb4bda14e58b742504f1906a68779e7_2min51s.frame,{'two_wheeler'},False,11.0,continue,caution,False,wall_door,12.0,"{'wall_door', 'two_wheeler'}",continue,0.0,1.0,
+20240918_short_5fb4bda14e58b742504f1906a68779e7_3min1s.frame,"{'barrier_cone', 'sign'}",False,10.0,continue,move,False,curb_edge,11.0,"{'curb_edge', 'tree_plant', 'vehicle'}",move,0.0,0.0,
+20240918_short_5fb4bda14e58b742504f1906a68779e7_3min20s.frame,"{'pedestrian', 'two_wheeler'}",False,1.0,continue,move,False,obstacle,11.0,"{'two_wheeler', 'obstacle'}",move,0.0,1.0,
+20240918_short_7d3e737f17e60225a06ddf427d5e6f68_3m7s.frame,{'two_wheeler'},False,11.0,continue,slow,False,two_wheeler,12.0,{'two_wheeler'},slow,1.0,1.0,1.0
+20240918_short_7d3e737f17e60225a06ddf427d5e6f68_4m48s.frame,{'other_object'},False,11.0,continue,slow,False,obstacle,12.0,"{'obstacle', 'vehicle'}",slow,0.0,0.0,
+20240918_short_7d3e737f17e60225a06ddf427d5e6f68_4m7s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'pedestrian', 'two_wheeler', 'obstacle'}",slow,1.0,1.0,1.0
+20240918_short_7d3e737f17e60225a06ddf427d5e6f68_52s.frame,{'barrier_cone'},False,12.0,continue,stop,False,curb_edge,12.0,"{'barrier_cone', 'curb_edge', 'water'}",stop,0.0,1.0,
+20240918_short_965a58f32ca9cffaca78e380ba0c0ddc_19s.frame,{'pedestrian'},False,11.0,continue,slow,False,pedestrian,12.0,"{'wall_door', 'pedestrian', 'street_object'}",slow,1.0,1.0,1.0
+20240918_short_965a58f32ca9cffaca78e380ba0c0ddc_1m54s.frame,{'furniture_stall'},False,11.0,continue,caution,False,wall_door,11.0,"{'wall_door', 'pedestrian', 'furniture_stall'}",continue,0.0,1.0,
+20240918_short_965a58f32ca9cffaca78e380ba0c0ddc_2m16s.frame,"{'curb_edge', 'pedestrian'}",False,11.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918_short_965a58f32ca9cffaca78e380ba0c0ddc_2m9s.frame,{'pedestrian'},False,12.0,slow,slow,False,pedestrian,12.0,"{'wall_door', 'pedestrian', 'street_object'}",slow,1.0,1.0,1.0
+20240918_short_965a58f32ca9cffaca78e380ba0c0ddc_44s.frame,{'pedestrian'},False,11.0,continue,caution,False,pedestrian,1.0,"{'pedestrian', 'sign'}",continue,1.0,1.0,0.0
+20240918_short_965a58f32ca9cffaca78e380ba0c0ddc_59s.frame,{'pedestrian'},False,11.0,continue,stop,False,obstacle,12.0,"{'pedestrian', 'obstacle'}",stop,0.0,1.0,
+20240918_short_9efc09638b81e4456ac0f14468a52a6a_15s.frame,{'pedestrian'},False,11.0,continue,move,False,fence_railing,12.0,"{'fence_railing', 'pedestrian'}",move,0.0,1.0,
+20240918_short_9efc09638b81e4456ac0f14468a52a6a_40s.frame,set(),True,,continue,move,False,fence_railing,12.0,{'fence_railing'},move,,,
+20240918_short_a4015a1bf1b7ba25943c1e68509bc9fa_1m15s.frame,{'two_wheeler'},False,11.0,continue,move,False,hole_uneven,12.0,"{'barrier_cone', 'water', 'hole_uneven'}",move,0.0,0.0,
+20240918_short_a4015a1bf1b7ba25943c1e68509bc9fa_2m48s.frame,{'two_wheeler'},False,12.0,stop,caution,False,two_wheeler,12.0,{'two_wheeler'},continue,1.0,1.0,1.0
+20240918_short_c4ef92796419392433041a4f4fb96706_55s.frame,"{'pedestrian', 'narrow_crowded'}",False,11.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918_short_c8823b1052b1adc78e8105ca291d8e3a_1min16s.frame,{'pedestrian'},False,12.0,slow,move,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",move,0.0,1.0,
+20240918_short_c8823b1052b1adc78e8105ca291d8e3a_1min28s.frame,{'pedestrian'},False,12.0,move,stop,False,pedestrian,12.0,"{'pedestrian', 'obstacle'}",stop,1.0,1.0,1.0
+20240918_short_c8823b1052b1adc78e8105ca291d8e3a_21s.frame,{'vehicle'},False,12.0,continue,caution,False,two_wheeler,12.0,"{'two_wheeler', 'vehicle'}",continue,0.0,1.0,
+20240918_short_cb95ca56064dd18578764d2ddb41e1cb_2min01s.frame,"{'fence_railing', 'tree_plant'}",False,11.0,continue,caution,False,fence_railing,1.0,"{'wall_door', 'fence_railing'}",continue,1.0,1.0,0.0
+20240918_short_cb95ca56064dd18578764d2ddb41e1cb_2min37s.frame,"{'fence_railing', 'tree_plant'}",False,11.0,continue,caution,False,fence_railing,1.0,"{'wall_door', 'fence_railing'}",continue,1.0,1.0,0.0
+20240918_short_cb95ca56064dd18578764d2ddb41e1cb_2min47s.frame,"{'fence_railing', 'tree_plant'}",False,11.0,continue,caution,False,fence_railing,1.0,"{'wall_door', 'fence_railing'}",continue,1.0,1.0,0.0
+20240918_short_cb95ca56064dd18578764d2ddb41e1cb_34s.frame,"{'fence_railing', 'vehicle'}",False,11.0,slow,caution,False,wall_door,1.0,"{'wall_door', 'fence_railing'}",continue,0.0,1.0,
+20240918_short_cb95ca56064dd18578764d2ddb41e1cb_3min59s.frame,"{'two_wheeler', 'vehicle'}",False,11.0,slow,slow,False,hole_uneven,1.0,"{'hole_uneven', 'vehicle'}",slow,0.0,1.0,
+20240918_short_cb95ca56064dd18578764d2ddb41e1cb_4min10s.frame,{'vehicle'},False,11.0,continue,clear,True,,,{'vehicle'},continue,0.0,1.0,
+20240918_short_cb95ca56064dd18578764d2ddb41e1cb_4min14s.frame,{'vehicle'},False,11.0,continue,move,False,hole_uneven,12.0,"{'hole_uneven', 'vehicle'}",move,0.0,1.0,
+20240918_short_cb95ca56064dd18578764d2ddb41e1cb_4min42s.frame,set(),True,,continue,caution,False,two_wheeler,11.0,{'two_wheeler'},continue,,,
+20240918_short_cd69e5b1944e864c5d6710d1e2e924d7_1m7s.frame,{'pedestrian'},False,11.0,slow,caution,False,wall_door,12.0,"{'wall_door', 'pedestrian'}",continue,0.0,1.0,
+20240918_short_d3a12c48750e8d2b0023c98311c0f3ea_45s.frame,"{'pedestrian', 'junction'}",False,11.0,continue,move,False,tree_plant,12.0,"{'wall_door', 'tree_plant'}",move,0.0,0.0,
+20240918_short_d3a12c48750e8d2b0023c98311c0f3ea_4min20s.frame,{'pole'},False,12.0,continue,slow,False,barrier_cone,12.0,{'barrier_cone'},slow,0.0,0.0,
+20240918_short_d3a12c48750e8d2b0023c98311c0f3ea_4min50s.frame,"{'fence_railing', 'off_route'}",False,12.0,continue,move,False,fence_railing,12.0,"{'fence_railing', 'pole'}",move,1.0,1.0,1.0
+20240918_short_d3a12c48750e8d2b0023c98311c0f3ea_56s.frame,{'pedestrian'},False,12.0,slow,caution,False,pedestrian,12.0,"{'wall_door', 'pedestrian'}",continue,1.0,1.0,1.0
+20240918_short_d3a12c48750e8d2b0023c98311c0f3ea_5s.frame,{'pedestrian'},False,11.0,continue,move,False,water,12.0,{'water'},move,0.0,0.0,
+20240918_short_d97f77c854ebf5207e301b2957ffcd97_1min50s.frame,{'pedestrian'},False,1.0,slow,stop,False,pedestrian,12.0,{'pedestrian'},stop,1.0,1.0,1.0
+20240918_short_d97f77c854ebf5207e301b2957ffcd97_26s.frame,"{'stairs_step', 'junction'}",False,12.0,continue,clear,True,,,{'pedestrian'},continue,0.0,0.0,
+20240918_short_d97f77c854ebf5207e301b2957ffcd97_35s.frame,"{'tree_plant', 'off_route'}",False,1.0,move,caution,False,stairs_step,12.0,"{'tree_plant', 'stairs_step', 'vehicle'}",continue,0.0,1.0,
+20240918_short_d97f77c854ebf5207e301b2957ffcd97_3min25s.frame,{'pedestrian'},False,11.0,slow,slow,False,obstacle,1.0,"{'pedestrian', 'obstacle'}",slow,0.0,1.0,
+20240918_short_d97f77c854ebf5207e301b2957ffcd97_3min34s.frame,"{'pedestrian', 'narrow_crowded'}",False,11.0,slow,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240918_short_d97f77c854ebf5207e301b2957ffcd97_4min19s.frame,"{'other_object', 'narrow_crowded'}",False,11.0,continue,slow,False,pedestrian,11.0,{'pedestrian'},slow,0.0,0.0,
+20240918_short_ead2195dd00d4e0e39b94817758c085f_1min20s.frame,{'furniture_stall'},False,,slow,clear,True,,,set(),continue,0.0,0.0,
+20240918_short_ead2195dd00d4e0e39b94817758c085f_28s.frame,{'pedestrian'},False,12.0,continue,clear,True,,,{'pedestrian'},continue,0.0,1.0,
+20240918_short_ead2195dd00d4e0e39b94817758c085f_2min22s.frame,{'pedestrian'},False,1.0,continue,slow,False,pedestrian,12.0,{'pedestrian'},slow,1.0,1.0,1.0
+20240918_short_ead2195dd00d4e0e39b94817758c085f_2min34s.frame,{'pedestrian'},False,11.0,continue,caution,False,obstacle,1.0,"{'pedestrian', 'obstacle', 'street_object'}",continue,0.0,1.0,
+20240918_short_ead2195dd00d4e0e39b94817758c085f_2min55s.frame,{'pedestrian'},False,11.0,continue,slow,False,obstacle,12.0,"{'pedestrian', 'obstacle'}",slow,0.0,1.0,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_14s.frame,{'vehicle'},False,1.0,stop,clear,True,,,{'pedestrian'},continue,0.0,0.0,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_25s.frame,"{'pedestrian', 'two_wheeler'}",False,11.0,stop,move,False,hole_uneven,12.0,"{'two_wheeler', 'hole_uneven'}",move,0.0,1.0,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_2min11s.frame,{'pole'},False,11.0,continue,caution,False,vehicle,12.0,"{'tree_plant', 'two_wheeler', 'vehicle'}",continue,0.0,0.0,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_2min43s.frame,{'vehicle'},False,,continue,caution,False,two_wheeler,12.0,"{'two_wheeler', 'hole_uneven'}",continue,0.0,0.0,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_36s.frame,"{'two_wheeler', 'vehicle'}",False,12.0,slow,clear,True,,,{'two_wheeler'},continue,0.0,1.0,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_41s.frame,set(),True,,continue,clear,True,,,{'vehicle'},continue,,,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_4min04s.frame,set(),True,,continue,caution,False,two_wheeler,11.0,{'two_wheeler'},continue,,,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_4min14s.frame,set(),True,,continue,caution,False,hole_uneven,12.0,"{'two_wheeler', 'hole_uneven'}",continue,,,
+20240918_short_f065e59be08cb5c66e3b8d98aa07b8ff_9s.frame,"{'vehicle', 'junction'}",False,,stop,clear,True,,,{'two_wheeler'},continue,0.0,0.0,
+20240919_short_395a39dab4fc329ed6ed4f344d8bc4bd_1min50s.frame,"{'curb_edge', 'vehicle'}",False,1.0,continue,move,False,wall_door,12.0,"{'wall_door', 'obstacle'}",move,0.0,0.0,
+20240919_short_395a39dab4fc329ed6ed4f344d8bc4bd_1min55s.frame,"{'pedestrian', 'narrow_crowded'}",False,11.0,slow,slow,False,vehicle,12.0,"{'pedestrian', 'vehicle'}",slow,0.0,1.0,
+20240919_short_395a39dab4fc329ed6ed4f344d8bc4bd_2min47s.frame,set(),True,,continue,move,False,water,11.0,{'water'},move,,,
+20240919_short_395a39dab4fc329ed6ed4f344d8bc4bd_4s.frame,{'pole'},False,1.0,continue,stop,False,two_wheeler,1.0,{'two_wheeler'},stop,0.0,0.0,
+20240919_short_abdcc6b0252ca514a65d2f4573845969_1min05s.frame,"{'pedestrian', 'junction'}",False,1.0,continue,stop,False,vehicle,12.0,"{'two_wheeler', 'hole_uneven', 'vehicle'}",stop,0.0,0.0,
+20240919_short_abdcc6b0252ca514a65d2f4573845969_2min33s.frame,"{'barrier_cone', 'pedestrian', 'narrow_crowded'}",False,12.0,continue,stop,False,two_wheeler,1.0,"{'pedestrian', 'two_wheeler'}",stop,0.0,1.0,
+20240919_short_abdcc6b0252ca514a65d2f4573845969_3min03s.frame,"{'barrier_cone', 'pedestrian'}",False,1.0,continue,caution,False,pedestrian,12.0,{'pedestrian'},continue,1.0,1.0,1.0
+20240919_short_abdcc6b0252ca514a65d2f4573845969_3min10s.frame,{'barrier_cone'},False,12.0,continue,clear,True,,,"{'pedestrian', 'vehicle'}",continue,0.0,0.0,
+20240919_short_abdcc6b0252ca514a65d2f4573845969_43s.frame,{'barrier_cone'},False,1.0,slow,caution,False,water,1.0,"{'furniture_stall', 'water', 'pedestrian'}",continue,0.0,0.0,
+20240919_short_abdcc6b0252ca514a65d2f4573845969_5min16s.frame,{'barrier_cone'},False,1.0,continue,slow,False,street_object,12.0,"{'pedestrian', 'street_object'}",slow,0.0,0.0,

@@ -1,5 +1,8 @@
 # data
-data/
+data/*
+!data/subsets/
+data/subsets/*
+!data/subsets/*.csv
 *.mp4
 *.jpg
 *.jpeg
@@ -9,6 +12,9 @@ data/
 *.pth
 *.safetensors
 checkpoints/
+
+# cache
+results/outputs/test/cache/
 
 # python
 __pycache__/

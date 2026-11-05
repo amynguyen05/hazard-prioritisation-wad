@@ -1,0 +1,4 @@
+,all texts,references only,no stop words,1-2 grams
+"Qwen2-VL-2B, none",0.073,0.093,0.05,0.031
+"Qwen2-VL-2B, list",0.1,0.112,0.077,0.046
+"Qwen2-VL-2B, ranked",0.102,0.098,0.086,0.044
