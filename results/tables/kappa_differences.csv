@@ -1,0 +1,4 @@
+,"kappa difference [95% CI], p"
+module - WAD (vs judges),"+0.17 [+0.09, +0.26], p = 0.000"
+ranked - list (vs judges),"+0.26 [+0.18, +0.34], p = 0.000"
+ranked - none (vs judges),"+0.26 [+0.16, +0.36], p = 0.000"

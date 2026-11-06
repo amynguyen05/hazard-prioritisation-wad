@@ -1,0 +1,11 @@
+,kappa [95% CI]
+judge 1 vs judge 2 (50 shared),"0.85 [0.72, 0.97]"
+WAD vs judges (350),"0.05 [-0.00, 0.10]"
+module vs judges (350),"0.22 [0.15, 0.29]"
+"module vs WAD (1,007)","0.05 [0.01, 0.09]"
+Qwen no hint vs judges,"-0.03 [-0.09, 0.03]"
+Qwen object list vs judges,"-0.04 [-0.08, 0.00]"
+Qwen ranked hint vs judges,"0.22 [0.15, 0.29]"
+Qwen no hint vs WAD,"-0.00 [-0.03, 0.03]"
+Qwen object list vs WAD,"0.05 [0.01, 0.09]"
+Qwen ranked hint vs WAD,"0.05 [0.01, 0.09]"
